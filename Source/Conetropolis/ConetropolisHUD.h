@@ -6,8 +6,10 @@
 #include "GameFramework/HUD.h"
 #include "Components/WidgetComponent.h"
 #include "BuilderWidget.h"
+#include "ScoreWidget.h"
 #include "ConetropolisHUD.generated.h"
 
+class UClassTemplate;
 /**
  * 
  */
@@ -25,7 +27,22 @@ public:
 	UPROPERTY(EditDefaultsOnly, Category = "Widgets")
 	TSubclassOf<UUserWidget> BuilderWidgetClass;
 
-private:
+	UPROPERTY(EditDefaultsOnly, Category = "Widgets")
+	TSubclassOf<UUserWidget> ScoreWidgetClass;
+
+	void SetScore(int score);
+	
 	UPROPERTY()
 	UBuilderWidget* BuilderWidget;
+	UPROPERTY()
+	UScoreWidget* ScoreWidget;
+	
+	
+    void InitializeScoreWidget();
+    void InitializeBuilderWidget();
+	void InitializeWidgets();
+
 };
+
+
+

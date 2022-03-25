@@ -4,6 +4,7 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/Actor.h"
+#include "ConetropolisHUD.h"
 #include "Grid.generated.h"
 
 /** Class used to spawn blocks and manage score */
@@ -17,8 +18,6 @@ class AGrid : public AActor
 	class USceneComponent* DummyRoot;
 
 	/** Text component for the score */
-	UPROPERTY(Category = Grid, VisibleDefaultsOnly, BlueprintReadOnly, meta = (AllowPrivateAccess = "true"))
-	class UTextRenderComponent* ScoreText;
 
 public:
 	AGrid();
@@ -46,11 +45,13 @@ protected:
 
 	/** Returns DummyRoot subobject **/
 	FORCEINLINE class USceneComponent* GetDummyRoot() const { return DummyRoot; }
-	/** Returns ScoreText subobject **/
-	FORCEINLINE class UTextRenderComponent* GetScoreText() const { return ScoreText; }
 
 	UFUNCTION(BlueprintCallable)
 	void BuildGrid(int desiredSize);
+
+private:
+	UPROPERTY()
+	AConetropolisHUD* HUD=nullptr;
 };
 
 

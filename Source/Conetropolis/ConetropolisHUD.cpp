@@ -16,7 +16,44 @@ void AConetropolisHUD::DrawHUD()
 void AConetropolisHUD::BeginPlay()
 {
 	Super::BeginPlay();
+	InitializeWidgets();
+	
+}
 
+void AConetropolisHUD::Tick(float DeltaSeconds)
+{
+	Super::Tick(DeltaSeconds);
+}
+
+void AConetropolisHUD::SetScore(int score)
+{
+	if(ScoreWidget)
+	{
+		ScoreWidget->SetScore(score);
+	}
+	else
+	{
+		UE_LOG(LogTemp, Warning, TEXT("There is no ScoreWidget in HUD"));
+	}
+	
+}
+
+void AConetropolisHUD::InitializeScoreWidget()
+{
+	if(ScoreWidgetClass)
+	{
+		ScoreWidget = CreateWidget<UScoreWidget>(GetWorld(), ScoreWidgetClass);
+		{
+			if(ScoreWidget)
+			{
+				ScoreWidget->AddToViewport();
+			}
+		}
+	}
+}
+
+void AConetropolisHUD::InitializeBuilderWidget()
+{
 	if(BuilderWidgetClass)
 	{
 		BuilderWidget = CreateWidget<UBuilderWidget>(GetWorld(), BuilderWidgetClass);
@@ -24,13 +61,18 @@ void AConetropolisHUD::BeginPlay()
 			if(BuilderWidget)
 			{
 				BuilderWidget->AddToViewport();
+				BuilderWidget->SetVisibility(ESlateVisibility::Hidden);
 			}
 		}
 	}
 }
 
-void AConetropolisHUD::Tick(float DeltaSeconds)
+
+void AConetropolisHUD::InitializeWidgets()
 {
-	Super::Tick(DeltaSeconds);
+	InitializeBuilderWidget();
+	InitializeScoreWidget();
+	SetScore(0);
+	UE_LOG(LogTemp, Warning, TEXT("Widgets initialized"));
 }
 

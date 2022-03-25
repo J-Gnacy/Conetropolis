@@ -9,7 +9,6 @@
 
 AGridField::AGridField()
 {
-	// Structure to hold one-time initialization
 	struct FConstructorStatics
 	{
 		ConstructorHelpers::FObjectFinderOptional<UStaticMesh> PlaneMesh;
@@ -37,8 +36,9 @@ AGridField::AGridField()
 		{
 		}
 	};
-	static FConstructorStatics ConstructorStatics;
 
+	
+	static FConstructorStatics ConstructorStatics;
 	// Create dummy root scene component
 	DummyRoot = CreateDefaultSubobject<USceneComponent>(TEXT("Dummy0"));
 	RootComponent = DummyRoot;
@@ -57,6 +57,12 @@ AGridField::AGridField()
 	BaseMaterial = ConstructorStatics.BaseMaterial.Get();
 	BlueMaterial = ConstructorStatics.BlueMaterial.Get();
 	OrangeMaterial = ConstructorStatics.OrangeMaterial.Get();
+	GreenMaterial = ConstructorStatics.GreenMaterial.Get();
+	GreyMaterial = ConstructorStatics.GreyMaterial.Get();
+	RedMaterial = ConstructorStatics.RedMaterial.Get();
+	VioletMaterial = ConstructorStatics.VioletMaterial.Get();
+	WhiteMaterial = ConstructorStatics.WhiteMaterial.Get();
+	YellowMaterial = ConstructorStatics.YellowMaterial.Get();
 }
 
 void AGridField::BlockClicked(UPrimitiveComponent* ClickedComp, FKey ButtonClicked)
@@ -79,6 +85,10 @@ void AGridField::HandleClicked()
 
 		// Change material
 		BlockMesh->SetMaterial(0, OrangeMaterial);
+		if(OwningGrid)
+			OwningGrid->AddScore();
+		else
+			UE_LOG(LogTemp, Warning, TEXT("No OwningGrid in GridField"));
 		
 	}
 }

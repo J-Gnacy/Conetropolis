@@ -38,6 +38,24 @@ public:
 	UPROPERTY()
 	class UMaterialInstance* OrangeMaterial;
 
+	UPROPERTY()
+	class UMaterialInstance* GreenMaterial;
+
+	UPROPERTY()
+	class UMaterialInstance* GreyMaterial;
+
+	UPROPERTY()
+	class UMaterialInstance* RedMaterial;
+
+	UPROPERTY()
+	class UMaterialInstance* VioletMaterial;
+
+	UPROPERTY()
+	class UMaterialInstance* WhiteMaterial;
+
+	UPROPERTY()
+	class UMaterialInstance* YellowMaterial;
+
 	/** Grid that owns us */
 	UPROPERTY()
 	class AGrid* OwningGrid;

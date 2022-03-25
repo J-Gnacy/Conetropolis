@@ -16,12 +16,23 @@ AGrid::AGrid()
 	// Set defaults
 	Size = 3;
 	BlockSpacing = 300.f;
+	Score=0;
 }
 
 
 void AGrid::BeginPlay()
 {
 	Super::BeginPlay();
+	HUD=Cast<AConetropolisHUD>(GetWorld()->GetFirstPlayerController()->GetHUD());
+	if(HUD)
+	{
+		HUD->SetScore(Score);
+	}
+	else
+	{
+		UE_LOG(LogTemp, Warning, TEXT("There is no HUD"));
+	}
+	
 }
 
 
@@ -29,6 +40,7 @@ void AGrid::AddScore()
 {
 	// Increment score
 	Score++;
+	HUD->SetScore(Score);
 	
 }
 
@@ -56,9 +68,6 @@ void AGrid::BuildGrid(int desiredSize)
 		if (NewBlock != nullptr)
 		{
 			NewBlock->OwningGrid = this;
-		}
-	}
+		} 
+	} 
 }
-
-
-#undef LOCTEXT_NAMESPACE

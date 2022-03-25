@@ -29,7 +29,7 @@ public:
 	void AddChildToScrollbox();
 
 	UPROPERTY(EditDefaultsOnly, Category = "Widgets")
-	TSubclassOf<UUserWidget> BuilderWidgetClass;
+	TSubclassOf<UUserWidget> BuildingButtonClass;
 	UBuildingButton* BuildingButton;
 
 	
