@@ -76,3 +76,13 @@ void AConetropolisHUD::InitializeWidgets()
 	UE_LOG(LogTemp, Warning, TEXT("Widgets initialized"));
 }
 
+void AConetropolisHUD::ShowBuilderWidget()
+{
+	BuilderWidget->SetVisibility(ESlateVisibility::Visible);
+}
+
+void AConetropolisHUD::HideBuilderWidget()
+{
+	BuilderWidget->SetVisibility(ESlateVisibility::Hidden);
+}
+

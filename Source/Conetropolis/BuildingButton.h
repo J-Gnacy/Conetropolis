@@ -15,10 +15,11 @@ class CONETROPOLIS_API UBuildingButton : public UUserWidget
 	GENERATED_BODY()
 
 public:
+	
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, meta = (BindWidget))
-	class UButton* BButton;
+	class UTextBlock* BuildingNameText;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, meta = (BindWidget))
-	class UTextBlock* BuildingName;
-	UPROPERTY(EditAnywhere, BlueprintReadWrite, meta = (BindWidget))
-	class UTextBlock* BuildingQuantity;
+	class UTextBlock* BuildingQuantityText;
+
+	void SetName(FString name);
 };

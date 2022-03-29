@@ -5,6 +5,7 @@
 #include "CoreMinimal.h"
 #include "GameFramework/Actor.h"
 #include "ConetropolisHUD.h"
+#include "AvailableBuildings.h"
 #include "Grid.generated.h"
 
 /** Class used to spawn blocks and manage score */

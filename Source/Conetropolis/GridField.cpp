@@ -1,6 +1,7 @@
 // Copyright Epic Games, Inc. All Rights Reserved.
 
 #include "GridField.h"
+
 #include "Grid.h"
 #include "UObject/ConstructorHelpers.h"
 #include "Components/StaticMeshComponent.h"
@@ -9,60 +10,22 @@
 
 AGridField::AGridField()
 {
-	struct FConstructorStatics
-	{
-		ConstructorHelpers::FObjectFinderOptional<UStaticMesh> PlaneMesh;
-		ConstructorHelpers::FObjectFinderOptional<UMaterial> BaseMaterial;
-		ConstructorHelpers::FObjectFinderOptional<UMaterialInstance> BlueMaterial;
-		ConstructorHelpers::FObjectFinderOptional<UMaterialInstance> OrangeMaterial;
-		ConstructorHelpers::FObjectFinderOptional<UMaterialInstance> GreenMaterial;
-		ConstructorHelpers::FObjectFinderOptional<UMaterialInstance> GreyMaterial;
-		ConstructorHelpers::FObjectFinderOptional<UMaterialInstance> RedMaterial;
-		ConstructorHelpers::FObjectFinderOptional<UMaterialInstance> YellowMaterial;
-		ConstructorHelpers::FObjectFinderOptional<UMaterialInstance> WhiteMaterial;
-		ConstructorHelpers::FObjectFinderOptional<UMaterialInstance> VioletMaterial;
-		
-		FConstructorStatics()
-			: PlaneMesh(TEXT("/Game/Meshes/PuzzleCube.PuzzleCube"))
-			, BaseMaterial(TEXT("/Game/Materials/BaseMaterial.BaseMaterial"))
-			, BlueMaterial(TEXT("/Game/Materials/BlueMaterial.BlueMaterial"))
-			, OrangeMaterial(TEXT("/Game/Materials/OrangeMaterial.OrangeMaterial"))
-			, GreenMaterial(TEXT("/Game/Materials/GreenMaterial.GreenMaterial"))
-			, GreyMaterial(TEXT("/Game/Materials/GreyMaterial.GreyMaterial"))
-			, RedMaterial(TEXT("/Game/Materials/RedMaterial.RedMaterial"))
-			, YellowMaterial(TEXT("/Game/Materials/YellowMaterial.YellowMaterial"))
-			, WhiteMaterial(TEXT("/Game/Materials/WhiteMaterial.WhiteMaterial"))
-			, VioletMaterial(TEXT("/Game/Materials/VioletMaterial.VioletMaterial"))
-		{
-		}
-	};
-
-	
 	static FConstructorStatics ConstructorStatics;
-	// Create dummy root scene component
+
 	DummyRoot = CreateDefaultSubobject<USceneComponent>(TEXT("Dummy0"));
 	RootComponent = DummyRoot;
+	
+	FieldMesh = CreateDefaultSubobject<UStaticMeshComponent>(TEXT("BlockMesh0"));
+	static ConstructorHelpers::FObjectFinder<UStaticMesh>MeshAsset(TEXT("/Game/Meshes/PuzzleCube.PuzzleCube"));
+	FieldMesh->SetStaticMesh(MeshAsset.Object);
+	FieldMesh->SetRelativeScale3D(FVector(1.f,1.f,0.25f));
+	FieldMesh->SetRelativeLocation(FVector(0.f,0.f,25.f));
+	FieldMesh->SetMaterial(0, ConstructorStatics.BlueMaterial.Get());
+	FieldMesh->SetupAttachment(DummyRoot);
+	FieldMesh->OnClicked.AddDynamic(this, &AGridField::BlockClicked);
+	FieldMesh->OnInputTouchBegin.AddDynamic(this, &AGridField::OnFingerPressedBlock);
 
-	// Create static mesh component
-	BlockMesh = CreateDefaultSubobject<UStaticMeshComponent>(TEXT("BlockMesh0"));
-	BlockMesh->SetStaticMesh(ConstructorStatics.PlaneMesh.Get());
-	BlockMesh->SetRelativeScale3D(FVector(1.f,1.f,0.25f));
-	BlockMesh->SetRelativeLocation(FVector(0.f,0.f,25.f));
-	BlockMesh->SetMaterial(0, ConstructorStatics.BlueMaterial.Get());
-	BlockMesh->SetupAttachment(DummyRoot);
-	BlockMesh->OnClicked.AddDynamic(this, &AGridField::BlockClicked);
-	BlockMesh->OnInputTouchBegin.AddDynamic(this, &AGridField::OnFingerPressedBlock);
-
-	// Save a pointer to the orange material
-	BaseMaterial = ConstructorStatics.BaseMaterial.Get();
-	BlueMaterial = ConstructorStatics.BlueMaterial.Get();
-	OrangeMaterial = ConstructorStatics.OrangeMaterial.Get();
-	GreenMaterial = ConstructorStatics.GreenMaterial.Get();
-	GreyMaterial = ConstructorStatics.GreyMaterial.Get();
-	RedMaterial = ConstructorStatics.RedMaterial.Get();
-	VioletMaterial = ConstructorStatics.VioletMaterial.Get();
-	WhiteMaterial = ConstructorStatics.WhiteMaterial.Get();
-	YellowMaterial = ConstructorStatics.YellowMaterial.Get();
+	SpawnedCone = AConeBuilding::StaticClass();
 }
 
 void AGridField::BlockClicked(UPrimitiveComponent* ClickedComp, FKey ButtonClicked)
@@ -78,13 +41,11 @@ void AGridField::OnFingerPressedBlock(ETouchIndex::Type FingerIndex, UPrimitiveC
 
 void AGridField::HandleClicked()
 {
-	// Check we are not already active
 	if (!bIsActive)
 	{
 		bIsActive = true;
 
-		// Change material
-		BlockMesh->SetMaterial(0, OrangeMaterial);
+		FieldMesh->SetMaterial(0, OrangeMaterial);
 		if(OwningGrid)
 			OwningGrid->AddScore();
 		else
@@ -103,10 +64,25 @@ void AGridField::Highlight(bool bOn)
 
 	if (bOn)
 	{
-		BlockMesh->SetMaterial(0, BaseMaterial);
+		FieldMesh->SetMaterial(0, BaseMaterial);
 	}
 	else
 	{
-		BlockMesh->SetMaterial(0, BlueMaterial);
+		FieldMesh->SetMaterial(0, BlueMaterial);
 	}
+}
+
+void AGridField::BuildCone(AConeBuilding ConeToBuild)
+{
+	UWorld* GameWorld=GetWorld();
+	if(GameWorld)
+	{
+		SpawnedCone=ConeToBuild.GetClass();
+		const FRotator rotation;
+		const FVector spawnLocation = this->GetActorLocation();
+		const FActorSpawnParameters spawnParameters;
+		GameWorld->SpawnActor<AConeBuilding>(SpawnedCone, spawnLocation, rotation, spawnParameters);
+	}
+	
+	
 }

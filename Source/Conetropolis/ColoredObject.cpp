@@ -3,15 +3,20 @@
 
 #include "ColoredObject.h"
 
-// Sets default values
 AColoredObject::AColoredObject()
 {
- 	// Set this actor to call Tick() every frame.  You can turn this off to improve performance if you don't need it.
-	PrimaryActorTick.bCanEverTick = true;
-
+	static FConstructorStatics ConstructorStatics;
+	BaseMaterial = ConstructorStatics.BaseMaterial.Get();
+	BlueMaterial = ConstructorStatics.BlueMaterial.Get();
+	OrangeMaterial = ConstructorStatics.OrangeMaterial.Get();
+	GreenMaterial = ConstructorStatics.GreenMaterial.Get();
+	GreyMaterial = ConstructorStatics.GreyMaterial.Get();
+	RedMaterial = ConstructorStatics.RedMaterial.Get();
+	VioletMaterial = ConstructorStatics.VioletMaterial.Get();
+	WhiteMaterial = ConstructorStatics.WhiteMaterial.Get();
+	YellowMaterial = ConstructorStatics.YellowMaterial.Get();
 }
 
-// Called when the game starts or when spawned
 void AColoredObject::BeginPlay()
 {
 	Super::BeginPlay();

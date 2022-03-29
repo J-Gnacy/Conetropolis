@@ -1,0 +1,1736 @@
+﻿Log file open, 03/29/22 00:33:24
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: Conetropolis
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.238331
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderLink
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15228867
+LogInit: Engine Version: 4.26.1-15228867+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 5 3600 6-Core Processor              , GPU: NVIDIA GeForce RTX 2060 SUPER
+LogInit: Compiled (64-bit): Jan 28 2021 07:07:34
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line:  -EpicPortal -epicusername="Delusional One" -epicuserid=b2819852daf645d3a9680902e9b59605 -epiclocale=pl -epicsandboxid=ue
+LogInit: Base Directory: D:/TheEngine/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Users/Lenovo/Documents/Unreal Projects/Conetropolis/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.03.28-22.33.24:593][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.03.28-22.33.24:593][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.03.28-22.33.24:593][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Users/Lenovo/Documents/Unreal Projects/Conetropolis/Saved/Config/Windows/Engine.ini]
+[2022.03.28-22.33.24:593][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.03.28-22.33.24:593][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2022.03.28-22.33.24:593][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2022.03.28-22.33.24:593][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2022.03.28-22.33.24:593][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2022.03.28-22.33.24:593][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2022.03.28-22.33.24:593][  0]LogConfig: Setting CVar [[r.Mobile.VirtualTextures:0]]
+[2022.03.28-22.33.24:593][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2022.03.28-22.33.24:593][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2022.03.28-22.33.24:593][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2022.03.28-22.33.24:593][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2022.03.28-22.33.24:593][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2022.03.28-22.33.24:593][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2022.03.28-22.33.24:593][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2022.03.28-22.33.24:593][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2022.03.28-22.33.24:593][  0]LogConfig: Setting CVar [[r.VirtualTextures:0]]
+[2022.03.28-22.33.24:593][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:0]]
+[2022.03.28-22.33.24:593][  0]LogConfig: Setting CVar [[r.VT.TileSize:128]]
+[2022.03.28-22.33.24:593][  0]LogConfig: Setting CVar [[r.VT.TileBorderSize:4]]
+[2022.03.28-22.33.24:593][  0]LogConfig: Setting CVar [[r.vt.FeedbackFactor:16]]
+[2022.03.28-22.33.24:593][  0]LogConfig: Setting CVar [[r.VT.EnableCompressZlib:1]]
+[2022.03.28-22.33.24:593][  0]LogConfig: Setting CVar [[r.VT.EnableCompressCrunch:0]]
+[2022.03.28-22.33.24:593][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2022.03.28-22.33.24:593][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2022.03.28-22.33.24:593][  0]LogConfig: Setting CVar [[r.Mobile.ReflectionCaptureCompression:0]]
+[2022.03.28-22.33.24:593][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2022.03.28-22.33.24:593][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2022.03.28-22.33.24:593][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2022.03.28-22.33.24:593][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2022.03.28-22.33.24:593][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2022.03.28-22.33.24:593][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2022.03.28-22.33.24:593][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2022.03.28-22.33.24:593][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2022.03.28-22.33.24:593][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2022.03.28-22.33.24:593][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2022.03.28-22.33.24:593][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:1]]
+[2022.03.28-22.33.24:593][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2022.03.28-22.33.24:593][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2022.03.28-22.33.24:593][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2022.03.28-22.33.24:593][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2022.03.28-22.33.24:593][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2022.03.28-22.33.24:593][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:1]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Bias:1.000000]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[r.UsePreExposure:1]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[r.EyeAdaptation.EditorOnly:0]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[r.SSGI.Enable:0]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[r.VertexDeformationOutputsVelocity:0]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[r.MeshStreaming:0]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[r.RayTracing.UseTextureLod:0]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphere:1]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphereAffectsHeightFog:0]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[r.SkinCache.DefaultBehavior:1]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlightsShadow:0]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[r.GPUSkin.Support16BitBoneIndex:0]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[r.LightPropagationVolume:0]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[r.Mobile.AmbientOcclusion:0]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[r.GPUSkin.UnlimitedBoneInfluences:0]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[r.GPUSkin.UnlimitedBoneInfluencesThreshold:8]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[r.Mobile.PlanarReflectionMode:0]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Users/Lenovo/Documents/Unreal Projects/Conetropolis/Saved/Config/Windows/Engine.ini]
+[2022.03.28-22.33.24:594][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Users/Lenovo/Documents/Unreal Projects/Conetropolis/Saved/Config/Windows/Engine.ini]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Users/Lenovo/Documents/Unreal Projects/Conetropolis/Saved/Config/Windows/Engine.ini]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.03.28-22.33.24:594][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.03.28-22.33.24:595][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.03.28-22.33.24:595][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.03.28-22.33.24:595][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.03.28-22.33.24:595][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Users/Lenovo/Documents/Unreal Projects/Conetropolis/Saved/Config/Windows/Engine.ini]
+[2022.03.28-22.33.24:595][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Users/Lenovo/Documents/Unreal Projects/Conetropolis/Saved/Config/Windows/Engine.ini]
+[2022.03.28-22.33.24:602][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Users/Lenovo/Documents/Unreal Projects/Conetropolis/Saved/Config/Windows/Scalability.ini]
+[2022.03.28-22.33.24:602][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.03.28-22.33.24:602][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.03.28-22.33.24:602][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Users/Lenovo/Documents/Unreal Projects/Conetropolis/Saved/Config/Windows/Scalability.ini]
+[2022.03.28-22.33.24:602][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.03.28-22.33.24:602][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Users/Lenovo/Documents/Unreal Projects/Conetropolis/Saved/Config/Windows/Scalability.ini]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Users/Lenovo/Documents/Unreal Projects/Conetropolis/Saved/Config/Windows/Scalability.ini]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Users/Lenovo/Documents/Unreal Projects/Conetropolis/Saved/Config/Windows/Scalability.ini]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Users/Lenovo/Documents/Unreal Projects/Conetropolis/Saved/Config/Windows/Scalability.ini]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Users/Lenovo/Documents/Unreal Projects/Conetropolis/Saved/Config/Windows/Scalability.ini]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Users/Lenovo/Documents/Unreal Projects/Conetropolis/Saved/Config/Windows/Scalability.ini]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.03.28-22.33.24:603][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.03.28-22.33.24:604][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.03.28-22.33.24:604][  0]LogInit: Selected Device Profile: [Windows]
+[2022.03.28-22.33.24:604][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.03.28-22.33.24:604][  0]LogHAL: Display: Platform has ~ 16 GB [17126666240 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.03.28-22.33.24:604][  0]LogInit: Going up to parent DeviceProfile []
+[2022.03.28-22.33.24:604][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@Cine] File [D:/Users/Lenovo/Documents/Unreal Projects/Conetropolis/Saved/Config/Windows/Scalability.ini]
+[2022.03.28-22.33.24:604][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.03.28-22.33.24:604][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:10.0]]
+[2022.03.28-22.33.24:604][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@Cine] File [D:/Users/Lenovo/Documents/Unreal Projects/Conetropolis/Saved/Config/Windows/Scalability.ini]
+[2022.03.28-22.33.24:604][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:6]]
+[2022.03.28-22.33.24:604][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@Cine] File [D:/Users/Lenovo/Documents/Unreal Projects/Conetropolis/Saved/Config/Windows/Scalability.ini]
+[2022.03.28-22.33.24:604][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.03.28-22.33.24:604][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.03.28-22.33.24:604][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.03.28-22.33.24:604][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:4096]]
+[2022.03.28-22.33.24:604][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:4096]]
+[2022.03.28-22.33.24:604][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0]]
+[2022.03.28-22.33.24:604][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.03.28-22.33.24:604][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.03.28-22.33.24:604][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.03.28-22.33.24:604][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.03.28-22.33.24:604][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.03.28-22.33.24:604][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.03.28-22.33.24:604][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.03.28-22.33.24:604][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:4]]
+[2022.03.28-22.33.24:604][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.03.28-22.33.24:604][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:16]]
+[2022.03.28-22.33.24:604][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.03.28-22.33.24:604][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.03.28-22.33.24:604][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@Cine] File [D:/Users/Lenovo/Documents/Unreal Projects/Conetropolis/Saved/Config/Windows/Scalability.ini]
+[2022.03.28-22.33.24:604][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.03.28-22.33.24:604][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.03.28-22.33.24:604][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.03.28-22.33.24:604][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.03.28-22.33.24:604][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.03.28-22.33.24:604][  0]LogConfig: Setting CVar [[r.GTAO.Numangles:4]]
+[2022.03.28-22.33.24:604][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:4]]
+[2022.03.28-22.33.24:604][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:1000]]
+[2022.03.28-22.33.24:604][  0]LogConfig: Setting CVar [[r.LensFlareQuality:3]]
+[2022.03.28-22.33.24:604][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.03.28-22.33.24:604][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.03.28-22.33.24:604][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.03.28-22.33.24:604][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.03.28-22.33.24:604][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.03.28-22.33.24:604][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.03.28-22.33.24:604][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.03.28-22.33.24:604][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.03.28-22.33.24:604][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.03.28-22.33.24:604][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.03.28-22.33.24:604][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.03.28-22.33.24:604][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:1       ; bokeh simulation when gathering]]
+[2022.03.28-22.33.24:604][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:5                 ; high number of samples when gathering]]
+[2022.03.28-22.33.24:604][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.03.28-22.33.24:604][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; background scattering occlusion]]
+[2022.03.28-22.33.24:604][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; no bokeh simulation when scattering]]
+[2022.03.28-22.33.24:604][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.25        ; only a maximum of 10% of scattered bokeh]]
+[2022.03.28-22.33.24:604][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:2                ; highest slight out of focus]]
+[2022.03.28-22.33.24:604][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:1    ; bokeh simulation on slight out of focus]]
+[2022.03.28-22.33.24:604][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.03.28-22.33.24:604][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.03.28-22.33.24:604][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.03.28-22.33.24:604][  0]LogConfig: Applying CVar settings from Section [TextureQuality@Cine] File [D:/Users/Lenovo/Documents/Unreal Projects/Conetropolis/Saved/Config/Windows/Scalability.ini]
+[2022.03.28-22.33.24:604][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.03.28-22.33.24:604][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.03.28-22.33.24:604][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.03.28-22.33.24:604][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.03.28-22.33.24:604][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.03.28-22.33.24:604][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.03.28-22.33.24:604][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.03.28-22.33.24:604][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:3000]]
+[2022.03.28-22.33.24:604][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.03.28-22.33.24:604][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@Cine] File [D:/Users/Lenovo/Documents/Unreal Projects/Conetropolis/Saved/Config/Windows/Scalability.ini]
+[2022.03.28-22.33.24:604][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.03.28-22.33.24:604][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.03.28-22.33.24:604][  0]LogConfig: Setting CVar [[r.SSR.Quality:4]]
+[2022.03.28-22.33.24:604][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.03.28-22.33.24:604][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.03.28-22.33.24:604][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.03.28-22.33.24:604][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.03.28-22.33.24:604][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.03.28-22.33.24:604][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.03.28-22.33.24:604][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.03.28-22.33.24:604][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.03.28-22.33.24:604][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.03.28-22.33.24:604][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.03.28-22.33.24:604][  0]LogConfig: Setting CVar [[r.SSGI.Quality:4]]
+[2022.03.28-22.33.24:604][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.03.28-22.33.24:605][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.03.28-22.33.24:605][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:0]]
+[2022.03.28-22.33.24:605][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:8]]
+[2022.03.28-22.33.24:605][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:32.0]]
+[2022.03.28-22.33.24:605][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:0]]
+[2022.03.28-22.33.24:605][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.03.28-22.33.24:605][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:256.0]]
+[2022.03.28-22.33.24:605][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:8.0]]
+[2022.03.28-22.33.24:605][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:256.0]]
+[2022.03.28-22.33.24:605][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.03.28-22.33.24:605][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:30.0]]
+[2022.03.28-22.33.24:605][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:20.0]]
+[2022.03.28-22.33.24:605][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@Cine] File [D:/Users/Lenovo/Documents/Unreal Projects/Conetropolis/Saved/Config/Windows/Scalability.ini]
+[2022.03.28-22.33.24:605][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.03.28-22.33.24:605][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.03.28-22.33.24:605][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@Cine] File [D:/Users/Lenovo/Documents/Unreal Projects/Conetropolis/Saved/Config/Windows/Scalability.ini]
+[2022.03.28-22.33.24:605][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:0]]
+[2022.03.28-22.33.24:605][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:8]]
+[2022.03.28-22.33.24:605][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:8]]
+[2022.03.28-22.33.24:605][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.03.28-22.33.24:605][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.03.28-22.33.24:605][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.03.28-22.33.24:605][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.03.28-22.33.24:605][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Users/Lenovo/Documents/Unreal Projects/Conetropolis/Saved/Config/Windows/Engine.ini]
+[2022.03.28-22.33.24:605][  0]LogInit: Computer: DESKTOP-GQP7QV1
+[2022.03.28-22.33.24:605][  0]LogInit: User: Lenovo
+[2022.03.28-22.33.24:605][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.03.28-22.33.24:605][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.03.28-22.33.24:605][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2022.03.28-22.33.24:605][  0]LogMemory: Platform Memory Stats for Windows
+[2022.03.28-22.33.24:605][  0]LogMemory: Process Physical Memory: 134.84 MB used, 134.84 MB peak
+[2022.03.28-22.33.24:605][  0]LogMemory: Process Virtual Memory: 130.49 MB used, 130.49 MB peak
+[2022.03.28-22.33.24:605][  0]LogMemory: Physical Memory: 15654.79 MB used,  678.48 MB free, 16333.26 MB total
+[2022.03.28-22.33.24:605][  0]LogMemory: Virtual Memory: 134213136.00 MB used,  4590.52 MB free, 134217728.00 MB total
+[2022.03.28-22.33.24:610][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.03.28-22.33.24:643][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.03.28-22.33.24:644][  0]LogInit: Using OS detected language (pl-PL).
+[2022.03.28-22.33.24:644][  0]LogInit: Using OS detected locale (pl-PL).
+[2022.03.28-22.33.24:646][  0]LogTextLocalizationManager: No specific localization for 'pl-PL' exists, so the 'pl' localization will be used.
+[2022.03.28-22.33.24:646][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/pl/Editor.locres' could not be opened for reading!
+[2022.03.28-22.33.24:647][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/pl/EditorTutorials.locres' could not be opened for reading!
+[2022.03.28-22.33.24:647][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/pl/Keywords.locres' could not be opened for reading!
+[2022.03.28-22.33.24:647][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/pl/Category.locres' could not be opened for reading!
+[2022.03.28-22.33.24:647][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/pl/ToolTips.locres' could not be opened for reading!
+[2022.03.28-22.33.24:647][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/pl/PropertyNames.locres' could not be opened for reading!
+[2022.03.28-22.33.24:647][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/pl/Engine.locres' could not be opened for reading!
+[2022.03.28-22.33.24:647][  0]LogInit: Setting process to per monitor DPI aware
+[2022.03.28-22.33.24:654][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.28-22.33.24:671][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.03.28-22.33.24:671][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.03.28-22.33.24:781][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.03.28-22.33.24:781][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.03.28-22.33.24:781][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.03.28-22.33.24:781][  0]LogD3D11RHI: D3D11 adapters:
+[2022.03.28-22.33.24:886][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060 SUPER' (Feature Level 11_0)
+[2022.03.28-22.33.24:886][  0]LogD3D11RHI:       8031/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2022.03.28-22.33.24:888][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.03.28-22.33.24:888][  0]LogD3D11RHI:       0/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.03.28-22.33.24:888][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.03.28-22.33.24:897][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.03.28-22.33.24:897][  0]LogD3D11RHI:     GPU DeviceId: 0x1f06 (for the marketing name, search the web for "GPU Device Id")
+[2022.03.28-22.33.24:897][  0]LogWindows: EnumDisplayDevices:
+[2022.03.28-22.33.24:897][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2060 SUPER' (P:1 D:1)
+[2022.03.28-22.33.24:897][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2060 SUPER' (P:0 D:1)
+[2022.03.28-22.33.24:897][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2060 SUPER' (P:0 D:0)
+[2022.03.28-22.33.24:897][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060 SUPER' (P:0 D:0)
+[2022.03.28-22.33.24:897][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.03.28-22.33.24:897][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060 SUPER
+[2022.03.28-22.33.24:897][  0]LogD3D11RHI:   Driver Version: 471.11 (internal:30.0.14.7111, unified:471.11)
+[2022.03.28-22.33.24:897][  0]LogD3D11RHI:      Driver Date: 6-21-2021
+[2022.03.28-22.33.24:898][  0]LogRHI: Texture pool is 5621 MB (70% of 8031 MB)
+[2022.03.28-22.33.24:972][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.03.28-22.33.24:973][  0]LogD3D11RHI: Async texture creation enabled
+[2022.03.28-22.33.24:973][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.03.28-22.33.24:988][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.03.28-22.33.24:989][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.03.28-22.33.25:253][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.03.28-22.33.25:275][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.03.28-22.33.25:275][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.03.28-22.33.25:275][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.03.28-22.33.25:275][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.03.28-22.33.25:275][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.03.28-22.33.25:275][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.03.28-22.33.25:275][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.03.28-22.33.25:275][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.03.28-22.33.25:275][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.03.28-22.33.25:275][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.03.28-22.33.25:295][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.03.28-22.33.25:295][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.03.28-22.33.25:303][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.03.28-22.33.25:311][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.03.28-22.33.25:319][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.03.28-22.33.25:328][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.03.28-22.33.25:335][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.03.28-22.33.25:342][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.03.28-22.33.25:350][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.03.28-22.33.25:371][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.03.28-22.33.25:372][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.03.28-22.33.25:379][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.03.28-22.33.25:386][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.03.28-22.33.25:394][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.03.28-22.33.25:402][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.03.28-22.33.25:415][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.03.28-22.33.25:415][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.03.28-22.33.25:422][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.03.28-22.33.25:430][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.03.28-22.33.25:438][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.03.28-22.33.25:445][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.03.28-22.33.25:445][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.03.28-22.33.25:452][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.03.28-22.33.25:504][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.03.28-22.33.25:504][  0]LogShaderCompilers: Guid format shader working directory is -20 characters bigger than the processId version (../../../../../Users/Lenovo/Documents/Unreal Projects/Conetropolis/Intermediate/Shaders/WorkingDirectory/20676/).
+[2022.03.28-22.33.25:504][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/5684CFA84064FB39C184D79AF5DBDCD7/'.
+[2022.03.28-22.33.25:504][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.03.28-22.33.25:504][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.03.28-22.33.26:184][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.03.28-22.33.26:249][  0]LogDerivedDataCache: Loaded boot cache 0.07s 77MB C:/Users/Lenovo/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.03.28-22.33.26:250][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Lenovo/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2022.03.28-22.33.26:250][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Users/Lenovo/Documents/Unreal Projects/Conetropolis/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.03.28-22.33.26:250][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.03.28-22.33.26:250][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Users/Lenovo/Documents/Unreal Projects/Conetropolis/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.03.28-22.33.26:250][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.03.28-22.33.26:262][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.03.28-22.33.26:263][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.03.28-22.33.26:263][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.03.28-22.33.26:271][  0]LogDerivedDataCache: Speed tests for C:/Users/Lenovo/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.03.28-22.33.26:271][  0]LogDerivedDataCache: Display: Performance to C:/Users/Lenovo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.04ms. RandomReadSpeed=1369.00MBs, RandomWriteSpeed=132.33MBs. Assigned SpeedClass 'Local'
+[2022.03.28-22.33.26:272][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Lenovo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.03.28-22.33.26:272][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.03.28-22.33.26:272][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.03.28-22.33.26:330][  0]LogSlate: Using FreeType 2.10.0
+[2022.03.28-22.33.26:330][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.03.28-22.33.26:356][  0]LogAssetRegistry: FAssetRegistry took 0.0037 seconds to start up
+[2022.03.28-22.33.26:639][  0]LogInit: Selected Device Profile: [Windows]
+[2022.03.28-22.33.26:639][  0]LogInit: Active device profile: [0000024649727700][0000024648129A00 49] Windows
+[2022.03.28-22.33.26:639][  0]LogInit: Profiles: [0000024649727700][0000024648129A00 49] Windows, [0000024649738A00][0000024648131B80 49] WindowsNoEditor, [0000024649724B00][0000024648135D00 49] WindowsServer, [000002464973AF00][00000246481381C0 49] WindowsClient, [0000024649726E00][000002464813C340 49] IOS, [0000024649739400][00000246481404C0 49] iPadAir, [0000024649725300][0000024648144640 49] iPadAir2, [00000246496F0A00][000002464814C900 49] IPadPro, [00000246496F0B00][0000024648148940 49] iPadAir3, [0000024649726800][0000024648150AC0 49] iPadAir4, [00000246496F3900][0000024648154C40 49] iPadMini2, [0000024649725800][0000024648158DC0 49] iPadMini3, [00000246496F2000][000002464815CF40 49] iPadMini4, [0000024649727A00][00000246481610C0 49] iPadMini5, [0000024649738900][0000024648169380 49] iPhone6, [0000024649738800][00000246481653C0 49] iPodTouch6, [00000246496F0D00][000002464812D640 49] iPhone7, [00000246496F2500][000002464816D680 49] iPodTouch7, [000002464973BB00][00000246481717C0 49] iPhone5S, [00000246496F2C00][0000024648175900 49] iPhone6Plus, [000002464973A600][0000024648179A40 49] iPhone6S, [00000246496F3000][0000024648181BC0 49] iPhone6SPlus, [0000024649739500][0000024648185D40 49] iPhone7Plus, [00000246496F1400][0000024648188200 49] iPhoneSE, [000002464973B200][000002464818C380 49] iPhone8, [00000246496F1800][0000024648190500 49] iPhone8Plus, [000002464973A400][0000024648194680 49] iPhoneX, [00000246496F1300][0000024648198800 49] iPhoneXS, [0000024649738400][000002464819C980 49] iPhoneXSMax, [00000246496F1200][0000024647990B00 49] iPhoneXR, [000002464973B500][0000024647994C80 49] iPhone11, [00000246496F3C00][0000024647998E00 49] iPhone11Pro, [0000024649739000][000002464799CF80 49] iPhone11ProMax, [00000246496F1E00][00000246479A1100 49] iPhoneSE2, [000002464973A000][00000246479A5280 49] iPhone12Mini, [00000246496F0900][00000246479A9400 49] iPhone12, [000002464973B300][00000246479AD580 49] iPhone12Pro, [00000246496F3D00][00000246479B1700 49] iPhone12ProMax, [0000024649738B00][000002464817D840 49] iPadPro105, [00000246496F3E00][00000246479B5980 49] iPadPro129, [0000024649738700][00000246479B9AC0 49] iPadPro97, [00000246496F0800][00000246479C1C40 49] iPadPro2_129, [000002464973A200][00000246479C4100 49] iPad5, [00000246496F2800][00000246479C8280 49] iPad6, [000002464973AC00][00000246479CC400 49] iPad7, [00000246496F1900][00000246479D0580 49] iPad8, [0000024649739B00][00000246479D4700 49] iPadPro11, [00000246496F2100][00000246479D8880 49] iPadPro2_11, [000002464973A700][00000246479DCA00 49] iPadPro3_129, [00000246496F1F00][00000246479E0B80 49] iPadPro4_129, [000002464973BF00][00000246479E4D00 49] AppleTV, [00000246496F2200][00000246479E8E80 49] AppleTV4K, [0000024649738600][00000246479ED000 49] TVOS, [00000246496F2600][00000246479F1180 49] Mac, [0000024649739C00][00000246479F5300 49] MacClient, [00000246496F2300][00000246479F9480 49] MacNoEditor, [0000024649739600][00000246479FD600 49] MacServer, [00000246496F0500][0000024647A01780 49] Linux, [0000024649739900][00000246479BD8C0 49] LinuxNoEditor, [0000024649724700][0000024647A05A00 49] LinuxAArch64NoEditor, [00000246497BC300][0000024647A09B40 49] LinuxClient, [0000024649724100][0000024647A11CC0 49] LinuxAArch64Client, [00000246497BC600][0000024647A14180 49] LinuxServer, [0000024649725A00][0000024647A18300 49] LinuxAArch64Server, [00000246497BD900][0000024647A1C480 49] Android, [0000024649727F00][0000024647A20600 49] Android_Low, [00000246497BC700][0000024647A24780 49] Android_Mid, [0000024649726F00][0000024647A28900 49] Android_High, [00000246497BDA00][0000024647A2CA80 49] Android_Default, [0000024649726300][0000024647A30C00 49] Android_Adreno4xx, [00000246497BC100][0000024647A34D80 49] Android_Adreno5xx_Low, [0000024649724C00][0000024647A38F00 49] Android_Adreno5xx, [00000246497BC200][0000024647A3D080 49] Android_Adreno6xx, [0000024649726100][0000024647A41200 49] Android_Adreno6xx_Vulkan, [00000246497BD000][0000024647A45380 49] Android_Mali_T6xx, [0000024649739A00][0000024647A49500 49] Android_Mali_T7xx, [00000246496F2400][0000024647A4D680 49] Android_Mali_T8xx, [000002464973B600][0000024647A51800 49] Android_Mali_G71, [00000246496F1A00][0000024647A0D940 49] Android_Mali_G72, [0000024649738200][0000024647A55A80 49] Android_Mali_G72_Vulkan, [00000246496F0300][0000024647A59BC0 49] Android_Mali_G76, [000002464973AE00][0000024647A5DD00 49] Android_Mali_G76_Vulkan, [00000246496F3F00][0000024647A641C0 49] Android_Mali_G77, [000002464973BA00][0000024647A68340 49] Android_Mali_G77_Vulkan, [00000246496F2E00][0000024647A6C4C0 49] Android_Vulkan_SM5, [0000024649738C00][0000024647A70640 49] Android_PowerVR_G6xxx, [00000246496F0100][0000024647A747C0 49] Android_PowerVR_GT7xxx, [000002464973BE00][0000024647A78940 49] Android_PowerVR_GE8xxx, [00000246496F3500][0000024647A7CAC0 49] Android_PowerVR_GM9xxx, [00000246497BC800][0000024647A80C40 49] Android_PowerVR_GM9xxx_Vulkan, [00000246496F1700][0000024647A84DC0 49] Android_TegraK1, [00000246497BDC00][0000024647A88F40 49] Android_Unknown_Vulkan, [00000246496F0E00][0000024647A8D0C0 49] Lumin, [00000246497BC500][0000024647A91240 49] Lumin_Desktop, [00000246496F1B00][0000024647A953C0 49] HoloLens, 
+[2022.03.28-22.33.26:783][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.03.28-22.33.26:783][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.03.28-22.33.26:783][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.03.28-22.33.26:783][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.03.28-22.33.26:783][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.03.28-22.33.26:809][  0]LogNetVersion: Conetropolis 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 4230482318)
+[2022.03.28-22.33.27:218][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.03.28-22.33.27:251][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.032153 seconds
+[2022.03.28-22.33.27:258][  0]LogUObjectArray: 16830 objects as part of root set at end of initial load.
+[2022.03.28-22.33.27:258][  0]LogUObjectAllocator: 4209472 out of 0 bytes used by permanent object pool.
+[2022.03.28-22.33.27:258][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.03.28-22.33.27:635][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.03.28-22.33.27:639][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.03.28-22.33.27:772][  0]LogLinker: Warning: Failed to load '/Game/TwinStickCPP/TwinStickOverview': Can't find file.
+[2022.03.28-22.33.27:772][  0]LogLinker: Warning: Failed to load '/Game/TwinStickCPP/TwinStickOverview': Can't find file.
+[2022.03.28-22.33.27:772][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/TwinStickCPP/TwinStickOverview.TwinStickOverview_C'
+[2022.03.28-22.33.28:035][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.03.28-22.33.28:047][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.03.28-22.33.28:047][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.03.28-22.33.28:088][  0]SourceControl: Source control is disabled
+[2022.03.28-22.33.28:088][  0]SourceControl: Source control is disabled
+[2022.03.28-22.33.28:091][  0]SourceControl: Source control is disabled
+[2022.03.28-22.33.28:101][  0]SourceControl: Source control is disabled
+[2022.03.28-22.33.28:108][  0]LogUProjectInfo: Found projects:
+[2022.03.28-22.33.28:117][  0]SourceControl: Source control is disabled
+[2022.03.28-22.33.28:129][  0]LogCollectionManager: Loaded 0 collections in 0.000599 seconds
+[2022.03.28-22.33.28:152][  0]LogFileCache: Scanning file cache for directory 'D:/Users/Lenovo/Documents/Unreal Projects/Conetropolis/Saved/Collections/' took 0.00s
+[2022.03.28-22.33.28:152][  0]LogFileCache: Scanning file cache for directory 'D:/Users/Lenovo/Documents/Unreal Projects/Conetropolis/Content/Developers/Lenovo/Collections/' took 0.00s
+[2022.03.28-22.33.28:152][  0]LogFileCache: Scanning file cache for directory 'D:/Users/Lenovo/Documents/Unreal Projects/Conetropolis/Content/Collections/' took 0.00s
+[2022.03.28-22.33.28:152][  0]LogOcInput: OculusInput pre-init called
+[2022.03.28-22.33.28:162][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2022.03.28-22.33.28:162][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2022.03.28-22.33.28:212][  0]LogEngine: Initializing Engine...
+[2022.03.28-22.33.28:214][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.03.28-22.33.28:214][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.03.28-22.33.28:215][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.03.28-22.33.28:306][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.03.28-22.33.28:315][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.03.28-22.33.28:324][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.03.28-22.33.28:329][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.03.28-22.33.28:329][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.03.28-22.33.28:329][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.28-22.33.28:329][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.28-22.33.28:329][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.28-22.33.28:329][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.28-22.33.28:329][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.28-22.33.28:329][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.28-22.33.28:329][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.28-22.33.28:329][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.28-22.33.28:329][  0]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.28-22.33.28:329][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.28-22.33.28:341][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.28-22.33.28:341][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.03.28-22.33.28:371][  0]LogAudioMixer: Display: Using Audio Device Słuchawki (High Definition Audio Device)
+[2022.03.28-22.33.28:374][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.28-22.33.28:375][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.28-22.33.28:375][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.28-22.33.28:376][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.28-22.33.28:376][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.28-22.33.28:376][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.28-22.33.28:377][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.28-22.33.28:377][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.28-22.33.28:377][  0]LogInit: FAudioDevice initialized.
+[2022.03.28-22.33.28:377][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.03.28-22.33.28:377][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.03.28-22.33.28:527][  0]LogDerivedDataCache: Saved boot cache 0.15s 77MB C:/Users/Lenovo/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.03.28-22.33.28:528][  0]LogInit: Texture streaming: Enabled
+[2022.03.28-22.33.28:543][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.1-15228867+++UE4+Release-4.26
+[2022.03.28-22.33.28:546][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.03.28-22.33.28:546][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.03.28-22.33.28:547][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.03.28-22.33.28:578][  0]LogInit: Transaction tracking system initialized
+[2022.03.28-22.33.28:605][  0]BlueprintLog: New page: Editor Load
+[2022.03.28-22.33.28:685][  0]LocalizationService: Localization service is disabled
+[2022.03.28-22.33.28:709][  0]TimingProfiler: Initialize
+[2022.03.28-22.33.28:709][  0]TimingProfiler: OnSessionChanged
+[2022.03.28-22.33.28:709][  0]LoadingProfiler: Initialize
+[2022.03.28-22.33.28:709][  0]LoadingProfiler: OnSessionChanged
+[2022.03.28-22.33.28:709][  0]NetworkingProfiler: Initialize
+[2022.03.28-22.33.28:709][  0]NetworkingProfiler: OnSessionChanged
+[2022.03.28-22.33.28:709][  0]MemoryProfiler: Initialize
+[2022.03.28-22.33.28:709][  0]MemoryProfiler: OnSessionChanged
+[2022.03.28-22.33.29:097][  0]LogFileCache: Scanning file cache for directory 'D:/Users/Lenovo/Documents/Unreal Projects/Conetropolis/Content/' took 0.00s
+[2022.03.28-22.33.29:097][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.03.28-22.33.29:097][  0]LogCook: Display: Mobile HDR setting 1
+[2022.03.28-22.33.29:369][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.03.28-22.33.29:372][  0]SourceControl: Source control is disabled
+[2022.03.28-22.33.29:372][  0]LogUnrealEdMisc: Loading editor; pre map load, took 5.660
+[2022.03.28-22.33.29:372][  0]Cmd: MAP LOAD FILE="../../../../../Users/Lenovo/Documents/Unreal Projects/Conetropolis/Content/Maps/Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.03.28-22.33.29:373][  0]LightingResults: New page: Lighting Build
+[2022.03.28-22.33.29:374][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.03.28-22.33.29:374][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.28-22.33.29:374][  0]MapCheck: New page: Map Check
+[2022.03.28-22.33.29:374][  0]LightingResults: New page: Lighting Build
+[2022.03.28-22.33.29:379][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.03.28-22.33.29:442][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Map'.
+[2022.03.28-22.33.29:443][  0]LogAIModule: Creating AISystem for world Map
+[2022.03.28-22.33.29:450][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.03.28-22.33.29:456][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.03.28-22.33.29:456][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.03.28-22.33.29:457][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,113ms to complete.
+[2022.03.28-22.33.29:457][  0]LogFileHelpers: Loading map 'Map' took 0.085
+[2022.03.28-22.33.29:459][  0]LogUnrealEdMisc: Total Editor Startup Time, took 5.747
+[2022.03.28-22.33.29:653][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.28-22.33.29:660][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.28-22.33.29:666][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.28-22.33.29:671][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.28-22.33.29:708][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0098 seconds. Added 3614 classes and 861 folders.
+[2022.03.28-22.33.29:718][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.03.28-22.33.29:723][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.03.28-22.33.29:723][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.28-22.33.29:723][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.03.28-22.33.29:723][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2022.03.28-22.33.29:726][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.03.28-22.33.29:726][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.28-22.33.29:726][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.03.28-22.33.29:726][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2022.03.28-22.33.29:727][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.03.28-22.33.29:727][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.28-22.33.29:727][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.03.28-22.33.29:727][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2022.03.28-22.33.29:728][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.28-22.33.29:728][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.28-22.33.29:728][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.03.28-22.33.29:728][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2022.03.28-22.33.29:730][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.03.28-22.33.29:730][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.28-22.33.29:730][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.03.28-22.33.29:730][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2022.03.28-22.33.29:731][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.03.28-22.33.29:731][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.28-22.33.29:731][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.03.28-22.33.29:731][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2022.03.28-22.33.29:732][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.03.28-22.33.29:732][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.28-22.33.29:732][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.03.28-22.33.29:732][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2022.03.28-22.33.29:733][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.03.28-22.33.29:734][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.28-22.33.29:734][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.03.28-22.33.29:734][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2022.03.28-22.33.29:735][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.03.28-22.33.29:735][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.28-22.33.29:735][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.03.28-22.33.29:735][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2022.03.28-22.33.29:736][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.03.28-22.33.29:736][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.28-22.33.29:736][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.03.28-22.33.29:736][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2022.03.28-22.33.29:737][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.03.28-22.33.29:737][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.28-22.33.29:737][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.03.28-22.33.29:737][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2022.03.28-22.33.29:738][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.03.28-22.33.29:738][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.28-22.33.29:738][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.03.28-22.33.29:738][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2022.03.28-22.33.29:739][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.28-22.33.29:739][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.28-22.33.29:739][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.03.28-22.33.29:739][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2022.03.28-22.33.29:740][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.03.28-22.33.29:740][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.28-22.33.29:740][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.03.28-22.33.29:740][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2022.03.28-22.33.29:741][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.03.28-22.33.29:741][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.28-22.33.29:741][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.03.28-22.33.29:741][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2022.03.28-22.33.29:742][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.03.28-22.33.29:742][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.28-22.33.29:742][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.03.28-22.33.29:742][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2022.03.28-22.33.29:743][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.03.28-22.33.29:743][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.28-22.33.29:743][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.03.28-22.33.29:743][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2022.03.28-22.33.29:745][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.03.28-22.33.29:745][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.28-22.33.29:745][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.03.28-22.33.29:745][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2022.03.28-22.33.29:746][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.28-22.33.29:746][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.28-22.33.29:746][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.03.28-22.33.29:746][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2022.03.28-22.33.29:747][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.28-22.33.29:747][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.28-22.33.29:747][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.03.28-22.33.29:747][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2022.03.28-22.33.29:748][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.03.28-22.33.29:748][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.28-22.33.29:748][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.03.28-22.33.29:748][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2022.03.28-22.33.29:749][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.03.28-22.33.29:749][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.28-22.33.29:749][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.03.28-22.33.29:749][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2022.03.28-22.33.29:751][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.03.28-22.33.29:751][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.28-22.33.29:751][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.03.28-22.33.29:751][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2022.03.28-22.33.29:752][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.03.28-22.33.29:752][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.28-22.33.29:752][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.03.28-22.33.29:752][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2022.03.28-22.33.29:754][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.28-22.33.29:754][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.28-22.33.29:754][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.03.28-22.33.29:754][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2022.03.28-22.33.29:756][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.03.28-22.33.29:756][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.28-22.33.29:756][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.03.28-22.33.29:756][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2022.03.28-22.33.29:813][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.03.28-22.33.29:827][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2022.03.28-22.33.30:014][  0]LogSlate: Took 0.000266 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.03.28-22.33.30:016][  0]LogSlate: Took 0.000105 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.03.28-22.33.30:023][  0]LogSlate: Took 0.000437 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.03.28-22.33.30:128][  0]LogRenderer: Reallocating scene render targets to support 1268x624 Format 10 NumSamples 1 (Frame:1).
+[2022.03.28-22.33.30:229][  0]LogSlate: Took 0.000541 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.03.28-22.33.30:278][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.03.28-22.33.30:278][  0]LogLoad: (Engine Initialization) Total time: 6.57 seconds
+[2022.03.28-22.33.30:278][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.03.28-22.33.30:278][  0]LogInit: First time updating LLM stats...
+[2022.03.28-22.33.30:493][  0]LogActor: Warning: RedBuilding /Engine/Transient.World_0:PersistentLevel.RedBuilding_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.28-22.33.30:517][  0]LogAssetRegistry: Asset discovery search completed in 4.1614 seconds
+[2022.03.28-22.33.30:520][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000006 seconds (updated 0 objects)
+[2022.03.28-22.33.30:543][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2022.03.28-22.33.30:968][  2]LogActor: Warning: ConeBuilding /Engine/Transient.World_3:PersistentLevel.ConeBuilding_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.28-22.33.37:821][130]Candidate modules for hot reload:
+[2022.03.28-22.33.37:821][130]  Conetropolis
+[2022.03.28-22.33.37:821][130]Launching UnrealBuildTool... [D:/TheEngine/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Conetropolis,6255 ConetropolisEditor Win64 Development -Project="D:/Users/Lenovo/Documents/Unreal Projects/Conetropolis/Conetropolis.uproject" "D:/Users/Lenovo/Documents/Unreal Projects/Conetropolis/Conetropolis.uproject"  -IgnoreJunk]
+[2022.03.28-22.33.37:825][130]Warning: Starting HotReload took  0.0s.
+[2022.03.28-22.33.50:400][491]CompilerResultsLog: New page: Compilation - 29 mar 2022, 02:33:50
+[2022.03.28-22.33.50:401][491]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Users\Lenovo\Documents\Unreal Projects\Conetropolis).
+[2022.03.28-22.33.50:401][491]CompilerResultsLog: Invalidating makefile for ConetropolisEditor (GridField.cpp modified)
+[2022.03.28-22.33.50:401][491]CompilerResultsLog: Building ConetropolisEditor...
+[2022.03.28-22.33.50:401][491]CompilerResultsLog: Using Visual Studio 2019 14.28.29915 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.03.28-22.33.50:401][491]CompilerResultsLog: Building 4 actions with 12 processes...
+[2022.03.28-22.33.50:401][491]CompilerResultsLog:   [1/4] GridField.cpp
+[2022.03.28-22.33.50:401][491]CompilerResultsLog:    D:\Users\Lenovo\Documents\Unreal Projects\Conetropolis\Source\Conetropolis\GridField.cpp(74) : error C2601: "AGridField::Highlight": definicje funkcji lokalnych s? niedozwolone
+[2022.03.28-22.33.50:401][491]CompilerResultsLog:   D:\Users\Lenovo\Documents\Unreal Projects\Conetropolis\Source\Conetropolis\GridField.cpp(43): note: ten wiersz zawiera znak "{", kt?ry nie zosta? jeszcze dopasowany
+[2022.03.28-22.33.50:401][491]CompilerResultsLog:    D:\Users\Lenovo\Documents\Unreal Projects\Conetropolis\Source\Conetropolis\GridField.cpp(92) : error C2601: "AGridField::BuildCone": definicje funkcji lokalnych s? niedozwolone
+[2022.03.28-22.33.50:401][491]CompilerResultsLog:   D:\Users\Lenovo\Documents\Unreal Projects\Conetropolis\Source\Conetropolis\GridField.cpp(43): note: ten wiersz zawiera znak "{", kt?ry nie zosta? jeszcze dopasowany
+[2022.03.28-22.33.50:401][491]CompilerResultsLog:   D:\Users\Lenovo\Documents\Unreal Projects\Conetropolis\Source\Conetropolis\GridField.cpp(43): fatal error C1075: "{": nie znaleziono zgodnego tokenu
+[2022.03.28-22.33.50:402][491]LogMainFrame: MainFrame: Module compiling took 12.591 seconds
+[2022.03.28-22.33.50:411][491]Warning: HotReload failed, recompile failed
+[2022.03.28-22.33.54:617][616]LogSlate: Took 0.006632 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.03.28-22.34.51:560][392]Candidate modules for hot reload:
+[2022.03.28-22.34.51:560][392]  Conetropolis
+[2022.03.28-22.34.51:560][392]Launching UnrealBuildTool... [D:/TheEngine/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Conetropolis,9447 ConetropolisEditor Win64 Development -Project="D:/Users/Lenovo/Documents/Unreal Projects/Conetropolis/Conetropolis.uproject" "D:/Users/Lenovo/Documents/Unreal Projects/Conetropolis/Conetropolis.uproject"  -IgnoreJunk]
+[2022.03.28-22.34.51:566][392]Warning: Starting HotReload took  0.0s.
+[2022.03.28-22.35.01:711][538]CompilerResultsLog: New page: Compilation - 29 mar 2022, 02:35:01
+[2022.03.28-22.35.01:711][538]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Users\Lenovo\Documents\Unreal Projects\Conetropolis).
+[2022.03.28-22.35.01:711][538]CompilerResultsLog: Invalidating makefile for ConetropolisEditor (GridField.cpp modified)
+[2022.03.28-22.35.01:711][538]CompilerResultsLog: Building ConetropolisEditor...
+[2022.03.28-22.35.01:711][538]CompilerResultsLog: Using Visual Studio 2019 14.28.29915 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.03.28-22.35.01:711][538]CompilerResultsLog: Building 4 actions with 12 processes...
+[2022.03.28-22.35.01:711][538]CompilerResultsLog:   [1/4] GridField.cpp
+[2022.03.28-22.35.01:711][538]CompilerResultsLog:   [2/4] UE4Editor-Conetropolis-9447.lib
+[2022.03.28-22.35.01:711][538]CompilerResultsLog:      Trwa tworzenie biblioteki D:\Users\Lenovo\Documents\Unreal Projects\Conetropolis\Intermediate\Build\Win64\UE4Editor\Development\Conetropolis\UE4Editor-Conetropolis-9447.lib i obiektu D:\Users\Lenovo\Documents\Unreal Projects\Conetropolis\Intermediate\Build\Win64\UE4Editor\Development\Conetropolis\UE4Editor-Conetropolis-9447.exp
+[2022.03.28-22.35.01:711][538]CompilerResultsLog:   [3/4] UE4Editor-Conetropolis-9447.dll
+[2022.03.28-22.35.01:711][538]CompilerResultsLog:      Trwa tworzenie biblioteki D:\Users\Lenovo\Documents\Unreal Projects\Conetropolis\Intermediate\Build\Win64\UE4Editor\Development\Conetropolis\UE4Editor-Conetropolis-9447.suppressed.lib i obiektu D:\Users\Lenovo\Documents\Unreal Projects\Conetropolis\Intermediate\Build\Win64\UE4Editor\Development\Conetropolis\UE4Editor-Conetropolis-9447.suppressed.exp
+[2022.03.28-22.35.01:711][538]CompilerResultsLog:   [4/4] ConetropolisEditor.target
+[2022.03.28-22.35.01:711][538]CompilerResultsLog: Total time in Parallel executor: 8,24 seconds
+[2022.03.28-22.35.01:711][538]CompilerResultsLog: Total execution time: 10,08 seconds
+[2022.03.28-22.35.01:711][538]LogMainFrame: MainFrame: Module compiling took 10.154 seconds
+[2022.03.28-22.35.01:747][538]LogClass: EColor HotReload.
+[2022.03.28-22.35.01:747][538]LogClass: Buildings HotReload.
+[2022.03.28-22.35.01:753][538]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Conetropolis' in 0.0003 seconds. Added 13 classes and 2 folders.
+[2022.03.28-22.35.01:753][538]Display: HotReload successful (3 functions remapped  1 scriptstructs remapped)
+[2022.03.28-22.35.01:802][538]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0090 seconds. Added 3614 classes and 861 folders.
+[2022.03.28-22.35.01:803][538]Display: HotReload took 10.2s.
+[2022.03.28-22.35.23:205][790]Candidate modules for hot reload:
+[2022.03.28-22.35.23:205][790]  Conetropolis
+[2022.03.28-22.35.23:205][790]Launching UnrealBuildTool... [D:/TheEngine/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Conetropolis,1374 ConetropolisEditor Win64 Development -Project="D:/Users/Lenovo/Documents/Unreal Projects/Conetropolis/Conetropolis.uproject" "D:/Users/Lenovo/Documents/Unreal Projects/Conetropolis/Conetropolis.uproject"  -IgnoreJunk]
+[2022.03.28-22.35.23:208][790]Warning: Starting HotReload took  0.0s.
+[2022.03.28-22.35.40:706][327]CompilerResultsLog: New page: Compilation - 29 mar 2022, 02:35:40
+[2022.03.28-22.35.40:707][327]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Users\Lenovo\Documents\Unreal Projects\Conetropolis).
+[2022.03.28-22.35.40:707][327]CompilerResultsLog: Invalidating makefile for ConetropolisEditor (GridField.cpp modified)
+[2022.03.28-22.35.40:707][327]CompilerResultsLog: Building ConetropolisEditor...
+[2022.03.28-22.35.40:707][327]CompilerResultsLog: Using Visual Studio 2019 14.28.29915 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.03.28-22.35.40:707][327]CompilerResultsLog: Building 4 actions with 12 processes...
+[2022.03.28-22.35.40:707][327]CompilerResultsLog:   [1/4] GridField.cpp
+[2022.03.28-22.35.40:707][327]CompilerResultsLog:   [2/4] UE4Editor-Conetropolis-1374.lib
+[2022.03.28-22.35.40:707][327]CompilerResultsLog:      Trwa tworzenie biblioteki D:\Users\Lenovo\Documents\Unreal Projects\Conetropolis\Intermediate\Build\Win64\UE4Editor\Development\Conetropolis\UE4Editor-Conetropolis-1374.lib i obiektu D:\Users\Lenovo\Documents\Unreal Projects\Conetropolis\Intermediate\Build\Win64\UE4Editor\Development\Conetropolis\UE4Editor-Conetropolis-1374.exp
+[2022.03.28-22.35.40:707][327]CompilerResultsLog:   [3/4] UE4Editor-Conetropolis-1374.dll
+[2022.03.28-22.35.40:707][327]CompilerResultsLog:      Trwa tworzenie biblioteki D:\Users\Lenovo\Documents\Unreal Projects\Conetropolis\Intermediate\Build\Win64\UE4Editor\Development\Conetropolis\UE4Editor-Conetropolis-1374.suppressed.lib i obiektu D:\Users\Lenovo\Documents\Unreal Projects\Conetropolis\Intermediate\Build\Win64\UE4Editor\Development\Conetropolis\UE4Editor-Conetropolis-1374.suppressed.exp
+[2022.03.28-22.35.40:707][327]CompilerResultsLog:   [4/4] ConetropolisEditor.target
+[2022.03.28-22.35.40:707][327]CompilerResultsLog: Total time in Parallel executor: 15,56 seconds
+[2022.03.28-22.35.40:707][327]CompilerResultsLog: Total execution time: 17,43 seconds
+[2022.03.28-22.35.40:707][327]LogMainFrame: MainFrame: Module compiling took 17.506 seconds
+[2022.03.28-22.35.40:752][327]LogClass: EColor HotReload.
+[2022.03.28-22.35.40:752][327]LogClass: Buildings HotReload.
+[2022.03.28-22.35.40:758][327]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Conetropolis' in 0.0003 seconds. Added 13 classes and 2 folders.
+[2022.03.28-22.35.40:759][327]Display: HotReload successful (3 functions remapped  1 scriptstructs remapped)
+[2022.03.28-22.35.40:791][327]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0092 seconds. Added 3614 classes and 861 folders.
+[2022.03.28-22.35.40:791][327]Display: HotReload took 17.6s.
+[2022.03.28-22.35.59:018][720]Candidate modules for hot reload:
+[2022.03.28-22.35.59:019][720]  Conetropolis
+[2022.03.28-22.35.59:019][720]Launching UnrealBuildTool... [D:/TheEngine/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Conetropolis,7705 ConetropolisEditor Win64 Development -Project="D:/Users/Lenovo/Documents/Unreal Projects/Conetropolis/Conetropolis.uproject" "D:/Users/Lenovo/Documents/Unreal Projects/Conetropolis/Conetropolis.uproject"  -IgnoreJunk]
+[2022.03.28-22.35.59:022][720]Warning: Starting HotReload took  0.0s.
+[2022.03.28-22.36.11:749][899]CompilerResultsLog: New page: Compilation - 29 mar 2022, 02:36:11
+[2022.03.28-22.36.11:749][899]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Users\Lenovo\Documents\Unreal Projects\Conetropolis).
+[2022.03.28-22.36.11:749][899]CompilerResultsLog: Invalidating makefile for ConetropolisEditor (GridField.cpp modified)
+[2022.03.28-22.36.11:749][899]CompilerResultsLog: Building ConetropolisEditor...
+[2022.03.28-22.36.11:749][899]CompilerResultsLog: Using Visual Studio 2019 14.28.29915 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.03.28-22.36.11:749][899]CompilerResultsLog: Building 4 actions with 12 processes...
+[2022.03.28-22.36.11:749][899]CompilerResultsLog:   [1/4] GridField.cpp
+[2022.03.28-22.36.11:749][899]CompilerResultsLog:   [2/4] UE4Editor-Conetropolis-7705.lib
+[2022.03.28-22.36.11:749][899]CompilerResultsLog:      Trwa tworzenie biblioteki D:\Users\Lenovo\Documents\Unreal Projects\Conetropolis\Intermediate\Build\Win64\UE4Editor\Development\Conetropolis\UE4Editor-Conetropolis-7705.lib i obiektu D:\Users\Lenovo\Documents\Unreal Projects\Conetropolis\Intermediate\Build\Win64\UE4Editor\Development\Conetropolis\UE4Editor-Conetropolis-7705.exp
+[2022.03.28-22.36.11:749][899]CompilerResultsLog:   [3/4] UE4Editor-Conetropolis-7705.dll
+[2022.03.28-22.36.11:749][899]CompilerResultsLog:      Trwa tworzenie biblioteki D:\Users\Lenovo\Documents\Unreal Projects\Conetropolis\Intermediate\Build\Win64\UE4Editor\Development\Conetropolis\UE4Editor-Conetropolis-7705.suppressed.lib i obiektu D:\Users\Lenovo\Documents\Unreal Projects\Conetropolis\Intermediate\Build\Win64\UE4Editor\Development\Conetropolis\UE4Editor-Conetropolis-7705.suppressed.exp
+[2022.03.28-22.36.11:749][899]CompilerResultsLog:   [4/4] ConetropolisEditor.target
+[2022.03.28-22.36.11:749][899]CompilerResultsLog: Total time in Parallel executor: 10,70 seconds
+[2022.03.28-22.36.11:749][899]CompilerResultsLog: Total execution time: 12,40 seconds
+[2022.03.28-22.36.11:749][899]LogMainFrame: MainFrame: Module compiling took 12.734 seconds
+[2022.03.28-22.36.11:775][899]LogClass: EColor HotReload.
+[2022.03.28-22.36.11:775][899]LogClass: Buildings HotReload.
+[2022.03.28-22.36.11:780][899]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Conetropolis' in 0.0003 seconds. Added 13 classes and 2 folders.
+[2022.03.28-22.36.11:781][899]Display: HotReload successful (3 functions remapped  1 scriptstructs remapped)
+[2022.03.28-22.36.11:810][899]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0089 seconds. Added 3614 classes and 861 folders.
+[2022.03.28-22.36.11:811][899]Display: HotReload took 12.8s.
+[2022.03.28-22.36.18:116][ 48]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.28-22.36.18:126][ 48]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.28-22.36.18:126][ 48]PIE: New page: PIE session: Map (29 mar 2022, 02:36:18)
+[2022.03.28-22.36.18:132][ 48]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.03.28-22.36.18:134][ 48]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.03.28-22.36.18:134][ 48]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map
+[2022.03.28-22.36.18:141][ 48]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006128s)
+[2022.03.28-22.36.18:143][ 48]LogAIModule: Creating AISystem for world Map
+[2022.03.28-22.36.18:143][ 48]LogPlayLevel: PIE: World Init took: (0.001896s)
+[2022.03.28-22.36.18:144][ 48]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map.Map to /Game/Maps/UEDPIE_0_Map.Map (0.009207s)
+[2022.03.28-22.36.18:149][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.03.28-22.36.18:151][ 48]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.03.28-22.36.18:151][ 48]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.28-22.36.18:151][ 48]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.28-22.36.18:151][ 48]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.28-22.36.18:151][ 48]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.28-22.36.18:151][ 48]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.28-22.36.18:151][ 48]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.28-22.36.18:151][ 48]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.28-22.36.18:151][ 48]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.28-22.36.18:152][ 48]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.28-22.36.18:152][ 48]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.28-22.36.18:156][ 48]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.28-22.36.18:156][ 48]LogAudioMixer: Display: 1: FrontRight
+[2022.03.28-22.36.18:164][ 48]LogAudioMixer: Display: Using Audio Device Słuchawki (High Definition Audio Device)
+[2022.03.28-22.36.18:164][ 48]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.28-22.36.18:164][ 48]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.28-22.36.18:164][ 48]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.28-22.36.18:165][ 48]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.28-22.36.18:165][ 48]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.28-22.36.18:165][ 48]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.28-22.36.18:176][ 48]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.28-22.36.18:176][ 48]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.28-22.36.18:176][ 48]LogInit: FAudioDevice initialized.
+[2022.03.28-22.36.18:176][ 48]LogAudio: Display: Audio Device (ID: 2) registered with world 'Map'.
+[2022.03.28-22.36.18:188][ 48]LogLoad: Game class is 'BuilderMode_C'
+[2022.03.28-22.36.18:195][ 48]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2022.03.29-00.36.18
+[2022.03.28-22.36.18:197][ 48]LogWorld: Bringing up level for play took: 0.001551
+[2022.03.28-22.36.18:202][ 48]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2022.03.28-22.36.18:226][ 48]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2022.03.28-22.36.18:227][ 48]LogTemp: Warning: There is no ScoreWidget in HUD
+[2022.03.28-22.36.18:416][ 48]LogTemp: Warning: Widgets initialized
+[2022.03.28-22.36.18:416][ 48]PIE: Server logged in
+[2022.03.28-22.36.18:419][ 48]PIE: Play in editor total start time 0,298 seconds.
+[2022.03.28-22.36.19:028][106]LogTemp: Warning: Drop item works
+[2022.03.28-22.36.24:074][687]LogTemp: Warning: Drop item works
+[2022.03.28-22.36.24:840][779]LogTemp: Warning: Drop item works
+[2022.03.28-22.36.25:474][855]LogTemp: Warning: Drop item works
+[2022.03.28-22.36.25:882][904]LogTemp: Warning: Drop item works
+[2022.03.28-22.36.26:207][943]LogTemp: Warning: Drop item works
+[2022.03.28-22.36.26:515][980]LogTemp: Warning: Drop item works
+[2022.03.28-22.36.26:799][ 14]LogTemp: Warning: Drop item works
+[2022.03.28-22.36.27:166][ 58]LogTemp: Warning: Drop item works
+[2022.03.28-22.36.28:392][201]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.28-22.36.28:392][201]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map
+[2022.03.28-22.36.28:395][201]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2022.03.28-22.36.28:406][201]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.28-22.36.28:413][201]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.28-22.36.28:418][201]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.28-22.36.28:422][201]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.28-22.36.28:423][201]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.28-22.36.28:425][201]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.28-22.36.28:440][201]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.28-22.36.28:467][201]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.03.28-22.36.28:480][202]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2022.03.28-22.38.49:978][864]Candidate modules for hot reload:
+[2022.03.28-22.38.49:978][864]  Conetropolis
+[2022.03.28-22.38.49:978][864]Launching UnrealBuildTool... [D:/TheEngine/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Conetropolis,1912 ConetropolisEditor Win64 Development -Project="D:/Users/Lenovo/Documents/Unreal Projects/Conetropolis/Conetropolis.uproject" "D:/Users/Lenovo/Documents/Unreal Projects/Conetropolis/Conetropolis.uproject"  -IgnoreJunk]
+[2022.03.28-22.38.49:982][864]Warning: Starting HotReload took  0.0s.
+[2022.03.28-22.39.06:737][819]CompilerResultsLog: New page: Compilation - 29 mar 2022, 02:39:06
+[2022.03.28-22.39.06:737][819]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Users\Lenovo\Documents\Unreal Projects\Conetropolis).
+[2022.03.28-22.39.06:737][819]CompilerResultsLog: Invalidating makefile for ConetropolisEditor (GridField.cpp modified)
+[2022.03.28-22.39.06:737][819]CompilerResultsLog: Building ConetropolisEditor...
+[2022.03.28-22.39.06:737][819]CompilerResultsLog: Using Visual Studio 2019 14.28.29915 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.03.28-22.39.06:737][819]CompilerResultsLog: Building 4 actions with 12 processes...
+[2022.03.28-22.39.06:737][819]CompilerResultsLog:   [1/4] GridField.cpp
+[2022.03.28-22.39.06:737][819]CompilerResultsLog:   [2/4] UE4Editor-Conetropolis-1912.lib
+[2022.03.28-22.39.06:737][819]CompilerResultsLog:      Trwa tworzenie biblioteki D:\Users\Lenovo\Documents\Unreal Projects\Conetropolis\Intermediate\Build\Win64\UE4Editor\Development\Conetropolis\UE4Editor-Conetropolis-1912.lib i obiektu D:\Users\Lenovo\Documents\Unreal Projects\Conetropolis\Intermediate\Build\Win64\UE4Editor\Development\Conetropolis\UE4Editor-Conetropolis-1912.exp
+[2022.03.28-22.39.06:737][819]CompilerResultsLog:   [3/4] UE4Editor-Conetropolis-1912.dll
+[2022.03.28-22.39.06:737][819]CompilerResultsLog:      Trwa tworzenie biblioteki D:\Users\Lenovo\Documents\Unreal Projects\Conetropolis\Intermediate\Build\Win64\UE4Editor\Development\Conetropolis\UE4Editor-Conetropolis-1912.suppressed.lib i obiektu D:\Users\Lenovo\Documents\Unreal Projects\Conetropolis\Intermediate\Build\Win64\UE4Editor\Development\Conetropolis\UE4Editor-Conetropolis-1912.suppressed.exp
+[2022.03.28-22.39.06:737][819]CompilerResultsLog:   [4/4] ConetropolisEditor.target
+[2022.03.28-22.39.06:737][819]CompilerResultsLog: Total time in Parallel executor: 14,79 seconds
+[2022.03.28-22.39.06:737][819]CompilerResultsLog: Total execution time: 16,68 seconds
+[2022.03.28-22.39.06:737][819]LogMainFrame: MainFrame: Module compiling took 16.763 seconds
+[2022.03.28-22.39.06:792][819]LogClass: EColor HotReload.
+[2022.03.28-22.39.06:792][819]LogClass: Buildings HotReload.
+[2022.03.28-22.39.06:798][819]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Conetropolis' in 0.0003 seconds. Added 13 classes and 2 folders.
+[2022.03.28-22.39.06:799][819]Display: HotReload successful (3 functions remapped  1 scriptstructs remapped)
+[2022.03.28-22.39.06:830][819]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0091 seconds. Added 3614 classes and 861 folders.
+[2022.03.28-22.39.06:830][819]Display: HotReload took 16.9s.
+[2022.03.28-22.39.08:209][974]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.28-22.39.08:214][974]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.28-22.39.08:214][974]PIE: New page: PIE session: Map (29 mar 2022, 02:39:08)
+[2022.03.28-22.39.08:214][974]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map
+[2022.03.28-22.39.08:218][974]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003600s)
+[2022.03.28-22.39.08:219][974]LogAIModule: Creating AISystem for world Map
+[2022.03.28-22.39.08:219][974]LogPlayLevel: PIE: World Init took: (0.001357s)
+[2022.03.28-22.39.08:219][974]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map.Map to /Game/Maps/UEDPIE_0_Map.Map (0.005081s)
+[2022.03.28-22.39.08:226][974]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.03.28-22.39.08:227][974]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.03.28-22.39.08:227][974]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.28-22.39.08:227][974]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.28-22.39.08:227][974]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.28-22.39.08:227][974]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.28-22.39.08:227][974]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.28-22.39.08:227][974]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.28-22.39.08:227][974]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.28-22.39.08:227][974]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.28-22.39.08:227][974]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.28-22.39.08:227][974]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.28-22.39.08:231][974]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.28-22.39.08:231][974]LogAudioMixer: Display: 1: FrontRight
+[2022.03.28-22.39.08:239][974]LogAudioMixer: Display: Using Audio Device Słuchawki (High Definition Audio Device)
+[2022.03.28-22.39.08:239][974]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.28-22.39.08:239][974]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.28-22.39.08:239][974]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.28-22.39.08:240][974]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.28-22.39.08:240][974]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.28-22.39.08:240][974]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.28-22.39.08:252][974]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.28-22.39.08:252][974]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.28-22.39.08:252][974]LogInit: FAudioDevice initialized.
+[2022.03.28-22.39.08:252][974]LogAudio: Display: Audio Device (ID: 3) registered with world 'Map'.
+[2022.03.28-22.39.08:256][974]LogLoad: Game class is 'BuilderMode_C'
+[2022.03.28-22.39.08:257][974]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2022.03.29-00.39.08
+[2022.03.28-22.39.08:257][974]LogWorld: Bringing up level for play took: 0.000686
+[2022.03.28-22.39.08:258][974]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2022.03.28-22.39.08:259][974]LogTemp: Warning: There is no ScoreWidget in HUD
+[2022.03.28-22.39.08:421][974]LogTemp: Warning: Widgets initialized
+[2022.03.28-22.39.08:422][974]PIE: Server logged in
+[2022.03.28-22.39.08:423][974]PIE: Play in editor total start time 0,209 seconds.
+[2022.03.28-22.39.08:931][ 15]LogTemp: Warning: Drop item works
+[2022.03.28-22.39.11:347][305]LogTemp: Warning: Drop item works
+[2022.03.28-22.39.11:958][367]LogTemp: Warning: Drop item works
+[2022.03.28-22.39.12:433][424]LogTemp: Warning: Drop item works
+[2022.03.28-22.39.13:990][597]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.28-22.39.13:990][597]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map
+[2022.03.28-22.39.13:993][597]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2022.03.28-22.39.14:003][597]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.28-22.39.14:009][597]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.28-22.39.14:012][597]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.28-22.39.14:015][597]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.28-22.39.14:020][597]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.28-22.39.14:021][597]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.28-22.39.14:049][597]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2022.03.28-22.39.14:060][598]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2022.03.28-22.41.25:234][338]Candidate modules for hot reload:
+[2022.03.28-22.41.25:234][338]  Conetropolis
+[2022.03.28-22.41.25:234][338]Launching UnrealBuildTool... [D:/TheEngine/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Conetropolis,770 ConetropolisEditor Win64 Development -Project="D:/Users/Lenovo/Documents/Unreal Projects/Conetropolis/Conetropolis.uproject" "D:/Users/Lenovo/Documents/Unreal Projects/Conetropolis/Conetropolis.uproject"  -IgnoreJunk]
+[2022.03.28-22.41.25:238][338]Warning: Starting HotReload took  0.0s.
+[2022.03.28-22.41.32:965][471]CompilerResultsLog: New page: Compilation - 29 mar 2022, 02:41:32
+[2022.03.28-22.41.32:965][471]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Users\Lenovo\Documents\Unreal Projects\Conetropolis).
+[2022.03.28-22.41.32:965][471]CompilerResultsLog: Invalidating makefile for ConetropolisEditor (GridField.cpp modified)
+[2022.03.28-22.41.32:965][471]CompilerResultsLog: Building ConetropolisEditor...
+[2022.03.28-22.41.32:965][471]CompilerResultsLog: Using Visual Studio 2019 14.28.29915 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.03.28-22.41.32:965][471]CompilerResultsLog: Building 4 actions with 12 processes...
+[2022.03.28-22.41.32:965][471]CompilerResultsLog:   [1/4] GridField.cpp
+[2022.03.28-22.41.32:965][471]CompilerResultsLog:    D:\TheEngine\UE_4.26\Engine\Source\Runtime\AppFramework/Public/Widgets/Colors/SColorPicker.h(73) : error C2079: "SColorPicker" u?ywa niezdefiniowanego class "APPFRAMEWORK_API"
+[2022.03.28-22.41.32:965][471]CompilerResultsLog:    D:\TheEngine\UE_4.26\Engine\Source\Runtime\AppFramework/Public/Widgets/Colors/SColorPicker.h(74) : error C2143: b??d sk?adniowy: brakuje ";" przed ":"
+[2022.03.28-22.41.32:965][471]CompilerResultsLog:    D:\TheEngine\UE_4.26\Engine\Source\Runtime\AppFramework/Public/Widgets/Colors/SColorPicker.h(74) : error C2059: b??d sk?adniowy: ":"
+[2022.03.28-22.41.32:965][471]CompilerResultsLog:    D:\TheEngine\UE_4.26\Engine\Source\Runtime\AppFramework/Public/Widgets/Colors/SColorPicker.h(74) : error C2059: b??d sk?adniowy: "public"
+[2022.03.28-22.41.32:965][471]CompilerResultsLog:    D:\TheEngine\UE_4.26\Engine\Source\Runtime\AppFramework/Public/Widgets/Colors/SColorPicker.h(75) : error C2143: b??d sk?adniowy: brakuje ";" przed "{"
+[2022.03.28-22.41.32:965][471]CompilerResultsLog:    D:\TheEngine\UE_4.26\Engine\Source\Runtime\AppFramework/Public/Widgets/Colors/SColorPicker.h(75) : error C2447: "{": brak nag??wka funkcji (stary styl formalnej listy?)
+[2022.03.28-22.41.32:966][471]CompilerResultsLog:    D:\TheEngine\UE_4.26\Engine\Source\Runtime\AppFramework/Public/Widgets/Colors/SColorPicker.h(591) : error C2923: "TSharedPtr": "SColorPicker" nie jest prawid?owy argument typu szablon dla parametru "ObjectType"
+[2022.03.28-22.41.32:966][471]CompilerResultsLog:   D:\TheEngine\UE_4.26\Engine\Source\Runtime\AppFramework/Public/Widgets/Colors/SColorPicker.h(73): note: zobacz deklaracj? "SColorPicker"
+[2022.03.28-22.41.32:966][471]CompilerResultsLog:    D:\TheEngine\UE_4.26\Engine\Source\Runtime\AppFramework/Public/Widgets/Colors/SColorPicker.h(591) : error C2976: "TSharedPtr": za ma?o argument?w szablon
+[2022.03.28-22.41.32:966][471]CompilerResultsLog:   D:\TheEngine\UE_4.26\Engine\Source\Runtime\Core\Public\Templates/SharedPointer.h(560): note: zobacz deklaracj? "TSharedPtr"
+[2022.03.28-22.41.32:966][471]CompilerResultsLog:    D:\TheEngine\UE_4.26\Engine\Source\Runtime\AppFramework/Public/Widgets/Colors/SColorPicker.h(591) : error C2079: "TSharedPtr" u?ywa niezdefiniowanego class "APPFRAMEWORK_API"
+[2022.03.28-22.41.32:966][471]CompilerResultsLog:    D:\TheEngine\UE_4.26\Engine\Source\Runtime\AppFramework/Public/Widgets/Colors/SColorPicker.h(591) : error C2146: b??d sk?adniowy: brakuje ";" przed identyfikatorem "GetColorPicker"
+[2022.03.28-22.41.32:966][471]CompilerResultsLog:    D:\TheEngine\UE_4.26\Engine\Source\Runtime\AppFramework/Public/Widgets/Colors/SColorPicker.h(591) : error C4430: brak specyfikatora typu - za?o?ono, ?e int. Uwaga: C++ nie obs?uguje domy?lnie typu int
+[2022.03.28-22.41.32:966][471]CompilerResultsLog:    D:\TheEngine\UE_4.26\Engine\Source\Runtime\AppFramework/Public/Widgets/Colors/SColorPicker.h(594) : error C2628: "APPFRAMEWORK_API" poprzedzaj?cy "bool" jest niedozwolony (zapomniale? ";"?)
+[2022.03.28-22.41.32:966][471]CompilerResultsLog:    D:\TheEngine\UE_4.26\Engine\Source\Runtime\AppFramework/Public/Widgets/Colors/SColorPicker.h(600) : error C2628: "APPFRAMEWORK_API" poprzedzaj?cy "void" jest niedozwolony (zapomniale? ";"?)
+[2022.03.28-22.41.32:966][471]LogMainFrame: MainFrame: Module compiling took 7.767 seconds
+[2022.03.28-22.41.32:966][471]Warning: HotReload failed, recompile failed
+[2022.03.28-22.42.50:422][680]Candidate modules for hot reload:
+[2022.03.28-22.42.50:422][680]  Conetropolis
+[2022.03.28-22.42.50:422][680]Launching UnrealBuildTool... [D:/TheEngine/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Conetropolis,4402 ConetropolisEditor Win64 Development -Project="D:/Users/Lenovo/Documents/Unreal Projects/Conetropolis/Conetropolis.uproject" "D:/Users/Lenovo/Documents/Unreal Projects/Conetropolis/Conetropolis.uproject"  -IgnoreJunk]
+[2022.03.28-22.42.50:426][680]Warning: Starting HotReload took  0.1s.
+[2022.03.28-22.43.01:820][978]CompilerResultsLog: New page: Compilation - 29 mar 2022, 02:43:01
+[2022.03.28-22.43.01:820][978]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Users\Lenovo\Documents\Unreal Projects\Conetropolis).
+[2022.03.28-22.43.01:820][978]CompilerResultsLog: Invalidating makefile for ConetropolisEditor (GridField.cpp modified)
+[2022.03.28-22.43.01:820][978]CompilerResultsLog: Building ConetropolisEditor...
+[2022.03.28-22.43.01:820][978]CompilerResultsLog: Using Visual Studio 2019 14.28.29915 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.03.28-22.43.01:820][978]CompilerResultsLog: Building 4 actions with 12 processes...
+[2022.03.28-22.43.01:820][978]CompilerResultsLog:   [1/4] GridField.cpp
+[2022.03.28-22.43.01:820][978]CompilerResultsLog:   [2/4] UE4Editor-Conetropolis-4402.lib
+[2022.03.28-22.43.01:820][978]CompilerResultsLog:      Trwa tworzenie biblioteki D:\Users\Lenovo\Documents\Unreal Projects\Conetropolis\Intermediate\Build\Win64\UE4Editor\Development\Conetropolis\UE4Editor-Conetropolis-4402.lib i obiektu D:\Users\Lenovo\Documents\Unreal Projects\Conetropolis\Intermediate\Build\Win64\UE4Editor\Development\Conetropolis\UE4Editor-Conetropolis-4402.exp
+[2022.03.28-22.43.01:820][978]CompilerResultsLog:   [3/4] UE4Editor-Conetropolis-4402.dll
+[2022.03.28-22.43.01:820][978]CompilerResultsLog:      Trwa tworzenie biblioteki D:\Users\Lenovo\Documents\Unreal Projects\Conetropolis\Intermediate\Build\Win64\UE4Editor\Development\Conetropolis\UE4Editor-Conetropolis-4402.suppressed.lib i obiektu D:\Users\Lenovo\Documents\Unreal Projects\Conetropolis\Intermediate\Build\Win64\UE4Editor\Development\Conetropolis\UE4Editor-Conetropolis-4402.suppressed.exp
+[2022.03.28-22.43.01:820][978]CompilerResultsLog:   [4/4] ConetropolisEditor.target
+[2022.03.28-22.43.01:820][978]CompilerResultsLog: Total time in Parallel executor: 9,45 seconds
+[2022.03.28-22.43.01:820][978]CompilerResultsLog: Total execution time: 11,31 seconds
+[2022.03.28-22.43.01:820][978]LogMainFrame: MainFrame: Module compiling took 11.449 seconds
+[2022.03.28-22.43.01:906][978]LogClass: EColor HotReload.
+[2022.03.28-22.43.01:906][978]LogClass: Buildings HotReload.
+[2022.03.28-22.43.01:912][978]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Conetropolis' in 0.0003 seconds. Added 13 classes and 2 folders.
+[2022.03.28-22.43.01:913][978]Display: HotReload successful (3 functions remapped  1 scriptstructs remapped)
+[2022.03.28-22.43.01:945][978]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0092 seconds. Added 3614 classes and 861 folders.
+[2022.03.28-22.43.01:945][978]Display: HotReload took 11.6s.
+[2022.03.28-22.43.35:219][299]Candidate modules for hot reload:
+[2022.03.28-22.43.35:219][299]  Conetropolis
+[2022.03.28-22.43.35:219][299]Launching UnrealBuildTool... [D:/TheEngine/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Conetropolis,1157 ConetropolisEditor Win64 Development -Project="D:/Users/Lenovo/Documents/Unreal Projects/Conetropolis/Conetropolis.uproject" "D:/Users/Lenovo/Documents/Unreal Projects/Conetropolis/Conetropolis.uproject"  -IgnoreJunk]
+[2022.03.28-22.43.35:223][299]Warning: Starting HotReload took  0.0s.
+[2022.03.28-22.43.45:597][485]CompilerResultsLog: New page: Compilation - 29 mar 2022, 02:43:45
+[2022.03.28-22.43.45:597][485]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Users\Lenovo\Documents\Unreal Projects\Conetropolis).
+[2022.03.28-22.43.45:597][485]CompilerResultsLog: Invalidating makefile for ConetropolisEditor (GridField.cpp modified)
+[2022.03.28-22.43.45:597][485]CompilerResultsLog: Building ConetropolisEditor...
+[2022.03.28-22.43.45:597][485]CompilerResultsLog: Using Visual Studio 2019 14.28.29915 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.03.28-22.43.45:597][485]CompilerResultsLog: Building 4 actions with 12 processes...
+[2022.03.28-22.43.45:597][485]CompilerResultsLog:   [1/4] GridField.cpp
+[2022.03.28-22.43.45:597][485]CompilerResultsLog:   [2/4] UE4Editor-Conetropolis-1157.lib
+[2022.03.28-22.43.45:597][485]CompilerResultsLog:      Trwa tworzenie biblioteki D:\Users\Lenovo\Documents\Unreal Projects\Conetropolis\Intermediate\Build\Win64\UE4Editor\Development\Conetropolis\UE4Editor-Conetropolis-1157.lib i obiektu D:\Users\Lenovo\Documents\Unreal Projects\Conetropolis\Intermediate\Build\Win64\UE4Editor\Development\Conetropolis\UE4Editor-Conetropolis-1157.exp
+[2022.03.28-22.43.45:597][485]CompilerResultsLog:   [3/4] UE4Editor-Conetropolis-1157.dll
+[2022.03.28-22.43.45:597][485]CompilerResultsLog:      Trwa tworzenie biblioteki D:\Users\Lenovo\Documents\Unreal Projects\Conetropolis\Intermediate\Build\Win64\UE4Editor\Development\Conetropolis\UE4Editor-Conetropolis-1157.suppressed.lib i obiektu D:\Users\Lenovo\Documents\Unreal Projects\Conetropolis\Intermediate\Build\Win64\UE4Editor\Development\Conetropolis\UE4Editor-Conetropolis-1157.suppressed.exp
+[2022.03.28-22.43.45:597][485]CompilerResultsLog:   [4/4] ConetropolisEditor.target
+[2022.03.28-22.43.45:597][485]CompilerResultsLog: Total time in Parallel executor: 8,46 seconds
+[2022.03.28-22.43.45:597][485]CompilerResultsLog: Total execution time: 10,30 seconds
+[2022.03.28-22.43.45:597][485]LogMainFrame: MainFrame: Module compiling took 10.382 seconds
+[2022.03.28-22.43.45:625][485]LogClass: EColor HotReload.
+[2022.03.28-22.43.45:625][485]LogClass: Buildings HotReload.
+[2022.03.28-22.43.45:631][485]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Conetropolis' in 0.0003 seconds. Added 13 classes and 2 folders.
+[2022.03.28-22.43.45:632][485]Display: HotReload successful (3 functions remapped  1 scriptstructs remapped)
+[2022.03.28-22.43.45:666][485]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0103 seconds. Added 3614 classes and 861 folders.
+[2022.03.28-22.43.45:666][485]Display: HotReload took 10.5s.
+[2022.03.28-22.43.48:517][782]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.28-22.43.48:522][782]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.28-22.43.48:522][782]PIE: New page: PIE session: Map (29 mar 2022, 02:43:48)
+[2022.03.28-22.43.48:522][782]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map
+[2022.03.28-22.43.48:526][782]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002989s)
+[2022.03.28-22.43.48:526][782]LogAIModule: Creating AISystem for world Map
+[2022.03.28-22.43.48:526][782]LogPlayLevel: PIE: World Init took: (0.000925s)
+[2022.03.28-22.43.48:527][782]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map.Map to /Game/Maps/UEDPIE_0_Map.Map (0.004028s)
+[2022.03.28-22.43.48:552][782]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.03.28-22.43.48:553][782]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.03.28-22.43.48:553][782]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.28-22.43.48:553][782]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.28-22.43.48:553][782]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.28-22.43.48:553][782]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.28-22.43.48:553][782]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.28-22.43.48:553][782]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.28-22.43.48:553][782]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.28-22.43.48:553][782]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.28-22.43.48:554][782]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.28-22.43.48:554][782]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.28-22.43.48:558][782]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.28-22.43.48:558][782]LogAudioMixer: Display: 1: FrontRight
+[2022.03.28-22.43.48:566][782]LogAudioMixer: Display: Using Audio Device Słuchawki (High Definition Audio Device)
+[2022.03.28-22.43.48:566][782]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.28-22.43.48:566][782]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.28-22.43.48:566][782]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.28-22.43.48:567][782]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.28-22.43.48:567][782]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.28-22.43.48:567][782]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.28-22.43.48:579][782]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.28-22.43.48:579][782]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.28-22.43.48:579][782]LogInit: FAudioDevice initialized.
+[2022.03.28-22.43.48:579][782]LogAudio: Display: Audio Device (ID: 4) registered with world 'Map'.
+[2022.03.28-22.43.48:585][782]LogLoad: Game class is 'BuilderMode_C'
+[2022.03.28-22.43.48:586][782]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2022.03.29-00.43.48
+[2022.03.28-22.43.48:587][782]LogWorld: Bringing up level for play took: 0.000630
+[2022.03.28-22.43.48:587][782]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2022.03.28-22.43.48:588][782]LogTemp: Warning: There is no ScoreWidget in HUD
+[2022.03.28-22.43.48:756][782]LogTemp: Warning: Widgets initialized
+[2022.03.28-22.43.48:756][782]PIE: Server logged in
+[2022.03.28-22.43.48:757][782]PIE: Play in editor total start time 0,236 seconds.
+[2022.03.28-22.43.49:356][835]LogTemp: Warning: Drop item works 5
+[2022.03.28-22.43.51:892][102]LogTemp: Warning: Drop item works 5
+[2022.03.28-22.43.52:683][197]LogTemp: Warning: Drop item works 5
+[2022.03.28-22.43.53:840][322]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.28-22.43.53:840][322]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map
+[2022.03.28-22.43.53:843][322]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2022.03.28-22.43.53:853][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.28-22.43.53:862][322]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.28-22.43.53:865][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.28-22.43.53:873][322]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.28-22.43.53:873][322]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.28-22.43.53:874][322]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.28-22.43.53:887][322]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.28-22.43.53:901][322]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2022.03.28-22.43.53:913][323]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2022.03.28-22.44.10:288][654]Candidate modules for hot reload:
+[2022.03.28-22.44.10:288][654]  Conetropolis
+[2022.03.28-22.44.10:288][654]Launching UnrealBuildTool... [D:/TheEngine/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Conetropolis,7499 ConetropolisEditor Win64 Development -Project="D:/Users/Lenovo/Documents/Unreal Projects/Conetropolis/Conetropolis.uproject" "D:/Users/Lenovo/Documents/Unreal Projects/Conetropolis/Conetropolis.uproject"  -IgnoreJunk]
+[2022.03.28-22.44.10:291][654]Warning: Starting HotReload took  0.0s.
+[2022.03.28-22.44.15:297][197]CompilerResultsLog: New page: Compilation - 29 mar 2022, 02:44:15
+[2022.03.28-22.44.15:297][197]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Users\Lenovo\Documents\Unreal Projects\Conetropolis).
+[2022.03.28-22.44.15:297][197]CompilerResultsLog: Invalidating makefile for ConetropolisEditor (GridField.cpp modified)
+[2022.03.28-22.44.15:297][197]CompilerResultsLog: Building ConetropolisEditor...
+[2022.03.28-22.44.15:297][197]CompilerResultsLog: Using Visual Studio 2019 14.28.29915 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.03.28-22.44.15:297][197]CompilerResultsLog: Building 4 actions with 12 processes...
+[2022.03.28-22.44.15:297][197]CompilerResultsLog:   [1/4] GridField.cpp
+[2022.03.28-22.44.15:297][197]CompilerResultsLog:   [2/4] UE4Editor-Conetropolis-7499.lib
+[2022.03.28-22.44.15:297][197]CompilerResultsLog:      Trwa tworzenie biblioteki D:\Users\Lenovo\Documents\Unreal Projects\Conetropolis\Intermediate\Build\Win64\UE4Editor\Development\Conetropolis\UE4Editor-Conetropolis-7499.lib i obiektu D:\Users\Lenovo\Documents\Unreal Projects\Conetropolis\Intermediate\Build\Win64\UE4Editor\Development\Conetropolis\UE4Editor-Conetropolis-7499.exp
+[2022.03.28-22.44.15:297][197]CompilerResultsLog:   [3/4] UE4Editor-Conetropolis-7499.dll
+[2022.03.28-22.44.15:297][197]CompilerResultsLog:      Trwa tworzenie biblioteki D:\Users\Lenovo\Documents\Unreal Projects\Conetropolis\Intermediate\Build\Win64\UE4Editor\Development\Conetropolis\UE4Editor-Conetropolis-7499.suppressed.lib i obiektu D:\Users\Lenovo\Documents\Unreal Projects\Conetropolis\Intermediate\Build\Win64\UE4Editor\Development\Conetropolis\UE4Editor-Conetropolis-7499.suppressed.exp
+[2022.03.28-22.44.15:297][197]CompilerResultsLog:   [4/4] ConetropolisEditor.target
+[2022.03.28-22.44.15:297][197]CompilerResultsLog: Total time in Parallel executor: 3,29 seconds
+[2022.03.28-22.44.15:297][197]CompilerResultsLog: Total execution time: 4,94 seconds
+[2022.03.28-22.44.15:297][197]LogMainFrame: MainFrame: Module compiling took 5.013 seconds
+[2022.03.28-22.44.15:323][197]LogClass: EColor HotReload.
+[2022.03.28-22.44.15:324][197]LogClass: Buildings HotReload.
+[2022.03.28-22.44.15:329][197]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Conetropolis' in 0.0003 seconds. Added 13 classes and 2 folders.
+[2022.03.28-22.44.15:330][197]Display: HotReload successful (3 functions remapped  1 scriptstructs remapped)
+[2022.03.28-22.44.15:362][197]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0093 seconds. Added 3614 classes and 861 folders.
+[2022.03.28-22.44.15:362][197]Display: HotReload took  5.1s.
+[2022.03.28-22.44.17:426][435]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.28-22.44.17:431][435]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.28-22.44.17:431][435]PIE: New page: PIE session: Map (29 mar 2022, 02:44:17)
+[2022.03.28-22.44.17:431][435]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map
+[2022.03.28-22.44.17:434][435]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002627s)
+[2022.03.28-22.44.17:435][435]LogAIModule: Creating AISystem for world Map
+[2022.03.28-22.44.17:435][435]LogPlayLevel: PIE: World Init took: (0.000884s)
+[2022.03.28-22.44.17:435][435]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map.Map to /Game/Maps/UEDPIE_0_Map.Map (0.003612s)
+[2022.03.28-22.44.17:438][435]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.03.28-22.44.17:439][435]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.03.28-22.44.17:439][435]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.28-22.44.17:439][435]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.28-22.44.17:439][435]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.28-22.44.17:439][435]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.28-22.44.17:439][435]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.28-22.44.17:439][435]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.28-22.44.17:439][435]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.28-22.44.17:439][435]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.28-22.44.17:440][435]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.28-22.44.17:440][435]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.28-22.44.17:443][435]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.28-22.44.17:443][435]LogAudioMixer: Display: 1: FrontRight
+[2022.03.28-22.44.17:451][435]LogAudioMixer: Display: Using Audio Device Słuchawki (High Definition Audio Device)
+[2022.03.28-22.44.17:451][435]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.28-22.44.17:451][435]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.28-22.44.17:451][435]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.28-22.44.17:452][435]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.28-22.44.17:452][435]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.28-22.44.17:452][435]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.28-22.44.17:463][435]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.28-22.44.17:463][435]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.28-22.44.17:463][435]LogInit: FAudioDevice initialized.
+[2022.03.28-22.44.17:463][435]LogAudio: Display: Audio Device (ID: 5) registered with world 'Map'.
+[2022.03.28-22.44.17:473][435]LogLoad: Game class is 'BuilderMode_C'
+[2022.03.28-22.44.17:474][435]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2022.03.29-00.44.17
+[2022.03.28-22.44.17:474][435]LogWorld: Bringing up level for play took: 0.000613
+[2022.03.28-22.44.17:474][435]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2022.03.28-22.44.17:476][435]LogTemp: Warning: There is no ScoreWidget in HUD
+[2022.03.28-22.44.17:634][435]LogTemp: Warning: Widgets initialized
+[2022.03.28-22.44.17:634][435]PIE: Server logged in
+[2022.03.28-22.44.17:635][435]PIE: Play in editor total start time 0,204 seconds.
+[2022.03.28-22.44.18:447][515]LogTemp: Warning: Drop item works 999
+[2022.03.28-22.44.19:548][646]LogTemp: Warning: Drop item works 999
+[2022.03.28-22.44.20:165][720]LogTemp: Warning: Drop item works 999
+[2022.03.28-22.44.21:316][850]LogTemp: Warning: Drop item works 999
+[2022.03.28-22.44.21:591][883]LogTemp: Warning: Drop item works 999
+[2022.03.28-22.44.22:225][959]LogTemp: Warning: Drop item works 999
+[2022.03.28-22.44.22:600][  4]LogTemp: Warning: Drop item works 999
+[2022.03.28-22.44.24:611][241]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.28-22.44.24:611][241]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map
+[2022.03.28-22.44.24:613][241]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2022.03.28-22.44.24:623][241]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.28-22.44.24:633][241]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.28-22.44.24:636][241]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.28-22.44.24:644][241]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.28-22.44.24:648][241]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.28-22.44.24:649][241]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.28-22.44.24:661][241]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.28-22.44.24:672][241]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.03.28-22.44.24:691][243]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2022.03.28-22.51.22:241][782]LogSlate: Took 0.000453 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.03.28-22.51.22:258][782]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/BP_BuilderWidget.BP_BuilderWidget
+[2022.03.28-22.51.22:609][782]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2022.03.28-22.51.23:818][782]LogSlate: Took 0.000498 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.03.28-22.52.04:899][273]Candidate modules for hot reload:
+[2022.03.28-22.52.04:900][273]  Conetropolis
+[2022.03.28-22.52.04:900][273]Launching UnrealBuildTool... [D:/TheEngine/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Conetropolis,7855 ConetropolisEditor Win64 Development -Project="D:/Users/Lenovo/Documents/Unreal Projects/Conetropolis/Conetropolis.uproject" "D:/Users/Lenovo/Documents/Unreal Projects/Conetropolis/Conetropolis.uproject"  -IgnoreJunk]
+[2022.03.28-22.52.04:904][273]Warning: Starting HotReload took  0.0s.
+[2022.03.28-22.52.23:277][463]CompilerResultsLog: New page: Compilation - 29 mar 2022, 02:52:23
+[2022.03.28-22.52.23:277][463]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Users\Lenovo\Documents\Unreal Projects\Conetropolis).
+[2022.03.28-22.52.23:277][463]CompilerResultsLog: Invalidating makefile for ConetropolisEditor (BuilderWidget.cpp modified)
+[2022.03.28-22.52.23:277][463]CompilerResultsLog: Building ConetropolisEditor...
+[2022.03.28-22.52.23:277][463]CompilerResultsLog: Using Visual Studio 2019 14.28.29915 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.03.28-22.52.23:277][463]CompilerResultsLog: Building 4 actions with 12 processes...
+[2022.03.28-22.52.23:277][463]CompilerResultsLog:   [1/4] BuilderWidget.cpp
+[2022.03.28-22.52.23:277][463]CompilerResultsLog:   [2/4] UE4Editor-Conetropolis-7855.lib
+[2022.03.28-22.52.23:277][463]CompilerResultsLog:      Trwa tworzenie biblioteki D:\Users\Lenovo\Documents\Unreal Projects\Conetropolis\Intermediate\Build\Win64\UE4Editor\Development\Conetropolis\UE4Editor-Conetropolis-7855.lib i obiektu D:\Users\Lenovo\Documents\Unreal Projects\Conetropolis\Intermediate\Build\Win64\UE4Editor\Development\Conetropolis\UE4Editor-Conetropolis-7855.exp
+[2022.03.28-22.52.23:277][463]CompilerResultsLog:   [3/4] UE4Editor-Conetropolis-7855.dll
+[2022.03.28-22.52.23:277][463]CompilerResultsLog:      Trwa tworzenie biblioteki D:\Users\Lenovo\Documents\Unreal Projects\Conetropolis\Intermediate\Build\Win64\UE4Editor\Development\Conetropolis\UE4Editor-Conetropolis-7855.suppressed.lib i obiektu D:\Users\Lenovo\Documents\Unreal Projects\Conetropolis\Intermediate\Build\Win64\UE4Editor\Development\Conetropolis\UE4Editor-Conetropolis-7855.suppressed.exp
+[2022.03.28-22.52.23:277][463]CompilerResultsLog:   [4/4] ConetropolisEditor.target
+[2022.03.28-22.52.23:277][463]CompilerResultsLog: Total time in Parallel executor: 16,21 seconds
+[2022.03.28-22.52.23:277][463]CompilerResultsLog: Total execution time: 18,21 seconds
+[2022.03.28-22.52.23:277][463]LogMainFrame: MainFrame: Module compiling took 18.382 seconds
+[2022.03.28-22.52.23:352][463]LogClass: EColor HotReload.
+[2022.03.28-22.52.23:352][463]LogClass: Buildings HotReload.
+[2022.03.28-22.52.23:359][463]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Conetropolis' in 0.0003 seconds. Added 13 classes and 2 folders.
+[2022.03.28-22.52.23:363][463]Display: HotReload successful (3 functions remapped  1 scriptstructs remapped)
+[2022.03.28-22.52.23:423][463]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0090 seconds. Added 3614 classes and 861 folders.
+[2022.03.28-22.52.23:423][463]Display: HotReload took 18.5s.
+[2022.03.28-22.53.06:979][789]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.28-22.53.06:985][789]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.28-22.53.06:985][789]PIE: New page: PIE session: Map (29 mar 2022, 02:53:06)
+[2022.03.28-22.53.06:985][789]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map
+[2022.03.28-22.53.06:991][789]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005722s)
+[2022.03.28-22.53.06:992][789]LogAIModule: Creating AISystem for world Map
+[2022.03.28-22.53.06:992][789]LogPlayLevel: PIE: World Init took: (0.001093s)
+[2022.03.28-22.53.06:992][789]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map.Map to /Game/Maps/UEDPIE_0_Map.Map (0.006965s)
+[2022.03.28-22.53.07:094][789]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2022.03.28-22.53.07:096][789]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.03.28-22.53.07:096][789]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.28-22.53.07:096][789]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.28-22.53.07:096][789]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.28-22.53.07:096][789]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.28-22.53.07:096][789]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.28-22.53.07:096][789]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.28-22.53.07:096][789]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.28-22.53.07:096][789]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.28-22.53.07:097][789]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.28-22.53.07:097][789]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.28-22.53.07:100][789]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.28-22.53.07:100][789]LogAudioMixer: Display: 1: FrontRight
+[2022.03.28-22.53.07:109][789]LogAudioMixer: Display: Using Audio Device Słuchawki (High Definition Audio Device)
+[2022.03.28-22.53.07:110][789]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.28-22.53.07:110][789]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.28-22.53.07:110][789]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.28-22.53.07:111][789]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.28-22.53.07:111][789]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.28-22.53.07:111][789]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.28-22.53.07:122][789]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.28-22.53.07:122][789]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.28-22.53.07:122][789]LogInit: FAudioDevice initialized.
+[2022.03.28-22.53.07:122][789]LogAudio: Display: Audio Device (ID: 6) registered with world 'Map'.
+[2022.03.28-22.53.07:127][789]LogLoad: Game class is 'BuilderMode_C'
+[2022.03.28-22.53.07:128][789]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2022.03.29-00.53.07
+[2022.03.28-22.53.07:128][789]LogWorld: Bringing up level for play took: 0.000623
+[2022.03.28-22.53.07:128][789]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2022.03.28-22.53.07:130][789]LogTemp: Warning: There is no ScoreWidget in HUD
+[2022.03.28-22.53.07:288][789]LogTemp: Warning: Widgets initialized
+[2022.03.28-22.53.07:288][789]PIE: Server logged in
+[2022.03.28-22.53.07:289][789]PIE: Play in editor total start time 0,305 seconds.
+[2022.03.28-22.53.07:729][825]LogTemp: Warning: Drop item works 999
+[2022.03.28-22.53.10:982][156]LogTemp: Warning: Drop item works 999
+[2022.03.28-22.53.13:368][442]LogTemp: Warning: Drop item works 999
+[2022.03.28-22.53.20:651][198]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.28-22.53.20:651][198]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map
+[2022.03.28-22.53.20:653][198]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2022.03.28-22.53.20:664][198]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.28-22.53.20:683][198]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.28-22.53.20:690][198]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.28-22.53.20:708][198]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.28-22.53.20:719][198]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.28-22.53.20:720][198]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.28-22.53.20:733][198]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.28-22.53.20:780][198]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2022.03.28-22.53.20:802][199]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.03.28-22.53.31:891][398]Candidate modules for hot reload:
+[2022.03.28-22.53.31:891][398]  Conetropolis
+[2022.03.28-22.53.31:891][398]Launching UnrealBuildTool... [D:/TheEngine/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Conetropolis,7711 ConetropolisEditor Win64 Development -Project="D:/Users/Lenovo/Documents/Unreal Projects/Conetropolis/Conetropolis.uproject" "D:/Users/Lenovo/Documents/Unreal Projects/Conetropolis/Conetropolis.uproject"  -IgnoreJunk]
+[2022.03.28-22.53.31:895][398]Warning: Starting HotReload took  0.0s.
+[2022.03.28-22.53.44:950][541]CompilerResultsLog: New page: Compilation - 29 mar 2022, 02:53:44
+[2022.03.28-22.53.44:950][541]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Users\Lenovo\Documents\Unreal Projects\Conetropolis).
+[2022.03.28-22.53.44:950][541]CompilerResultsLog: Invalidating makefile for ConetropolisEditor (GridField.cpp modified)
+[2022.03.28-22.53.44:950][541]CompilerResultsLog: Building ConetropolisEditor...
+[2022.03.28-22.53.44:950][541]CompilerResultsLog: Using Visual Studio 2019 14.28.29915 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.03.28-22.53.44:950][541]CompilerResultsLog: Building 4 actions with 12 processes...
+[2022.03.28-22.53.44:950][541]CompilerResultsLog:   [1/4] GridField.cpp
+[2022.03.28-22.53.44:950][541]CompilerResultsLog:   [2/4] UE4Editor-Conetropolis-7711.lib
+[2022.03.28-22.53.44:950][541]CompilerResultsLog:      Trwa tworzenie biblioteki D:\Users\Lenovo\Documents\Unreal Projects\Conetropolis\Intermediate\Build\Win64\UE4Editor\Development\Conetropolis\UE4Editor-Conetropolis-7711.lib i obiektu D:\Users\Lenovo\Documents\Unreal Projects\Conetropolis\Intermediate\Build\Win64\UE4Editor\Development\Conetropolis\UE4Editor-Conetropolis-7711.exp
+[2022.03.28-22.53.44:950][541]CompilerResultsLog:   [3/4] UE4Editor-Conetropolis-7711.dll
+[2022.03.28-22.53.44:950][541]CompilerResultsLog:      Trwa tworzenie biblioteki D:\Users\Lenovo\Documents\Unreal Projects\Conetropolis\Intermediate\Build\Win64\UE4Editor\Development\Conetropolis\UE4Editor-Conetropolis-7711.suppressed.lib i obiektu D:\Users\Lenovo\Documents\Unreal Projects\Conetropolis\Intermediate\Build\Win64\UE4Editor\Development\Conetropolis\UE4Editor-Conetropolis-7711.suppressed.exp
+[2022.03.28-22.53.44:951][541]CompilerResultsLog:   [4/4] ConetropolisEditor.target
+[2022.03.28-22.53.44:951][541]CompilerResultsLog: Total time in Parallel executor: 10,98 seconds
+[2022.03.28-22.53.44:951][541]CompilerResultsLog: Total execution time: 12,88 seconds
+[2022.03.28-22.53.44:951][541]LogMainFrame: MainFrame: Module compiling took 13.064 seconds
+[2022.03.28-22.53.45:061][541]LogClass: EColor HotReload.
+[2022.03.28-22.53.45:061][541]LogClass: Buildings HotReload.
+[2022.03.28-22.53.45:068][541]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Conetropolis' in 0.0003 seconds. Added 13 classes and 2 folders.
+[2022.03.28-22.53.45:072][541]Display: HotReload successful (3 functions remapped  1 scriptstructs remapped)
+[2022.03.28-22.53.45:130][541]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0093 seconds. Added 3614 classes and 861 folders.
+[2022.03.28-22.53.45:131][541]Display: HotReload took 13.2s.
+[2022.03.28-22.53.54:661][704]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.28-22.53.54:667][704]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.28-22.53.54:667][704]PIE: New page: PIE session: Map (29 mar 2022, 02:53:54)
+[2022.03.28-22.53.54:667][704]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map
+[2022.03.28-22.53.54:670][704]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003096s)
+[2022.03.28-22.53.54:671][704]LogAIModule: Creating AISystem for world Map
+[2022.03.28-22.53.54:671][704]LogPlayLevel: PIE: World Init took: (0.000903s)
+[2022.03.28-22.53.54:671][704]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map.Map to /Game/Maps/UEDPIE_0_Map.Map (0.004114s)
+[2022.03.28-22.53.54:732][704]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2022.03.28-22.53.54:733][704]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.03.28-22.53.54:733][704]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.28-22.53.54:733][704]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.28-22.53.54:733][704]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.28-22.53.54:733][704]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.28-22.53.54:733][704]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.28-22.53.54:733][704]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.28-22.53.54:733][704]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.28-22.53.54:733][704]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.28-22.53.54:734][704]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.28-22.53.54:734][704]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.28-22.53.54:738][704]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.28-22.53.54:738][704]LogAudioMixer: Display: 1: FrontRight
+[2022.03.28-22.53.54:745][704]LogAudioMixer: Display: Using Audio Device Słuchawki (High Definition Audio Device)
+[2022.03.28-22.53.54:746][704]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.28-22.53.54:746][704]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.28-22.53.54:746][704]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.28-22.53.54:746][704]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.28-22.53.54:746][704]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.28-22.53.54:746][704]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.28-22.53.54:758][704]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.28-22.53.54:758][704]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.28-22.53.54:758][704]LogInit: FAudioDevice initialized.
+[2022.03.28-22.53.54:758][704]LogAudio: Display: Audio Device (ID: 7) registered with world 'Map'.
+[2022.03.28-22.53.54:762][704]LogLoad: Game class is 'BuilderMode_C'
+[2022.03.28-22.53.54:763][704]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2022.03.29-00.53.54
+[2022.03.28-22.53.54:763][704]LogWorld: Bringing up level for play took: 0.000598
+[2022.03.28-22.53.54:763][704]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2022.03.28-22.53.54:765][704]LogTemp: Warning: There is no ScoreWidget in HUD
+[2022.03.28-22.53.54:925][704]LogTemp: Warning: Widgets initialized
+[2022.03.28-22.53.54:925][704]PIE: Server logged in
+[2022.03.28-22.53.54:926][704]PIE: Play in editor total start time 0,26 seconds.
+[2022.03.28-22.53.55:501][759]LogTemp: Warning: BuildingButtonClass
+[2022.03.28-22.53.55:501][759]LogTemp: Warning: Drop item works 999
+[2022.03.28-22.53.56:601][891]LogTemp: Warning: BuildingButtonClass
+[2022.03.28-22.53.56:601][891]LogTemp: Warning: Drop item works 999
+[2022.03.28-22.53.57:292][974]LogTemp: Warning: BuildingButtonClass
+[2022.03.28-22.53.57:292][974]LogTemp: Warning: Drop item works 999
+[2022.03.28-22.53.58:881][157]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.28-22.53.58:881][157]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map
+[2022.03.28-22.53.58:883][157]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2022.03.28-22.53.58:894][157]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.28-22.53.58:899][157]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.28-22.53.58:906][157]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.28-22.53.58:922][157]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.28-22.53.58:938][157]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.28-22.53.58:940][157]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.28-22.53.58:952][157]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.28-22.53.58:982][157]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2022.03.28-22.53.58:999][158]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2022.03.28-22.55.06:004][602]Candidate modules for hot reload:
+[2022.03.28-22.55.06:004][602]  Conetropolis
+[2022.03.28-22.55.06:004][602]Launching UnrealBuildTool... [D:/TheEngine/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Conetropolis,1632 ConetropolisEditor Win64 Development -Project="D:/Users/Lenovo/Documents/Unreal Projects/Conetropolis/Conetropolis.uproject" "D:/Users/Lenovo/Documents/Unreal Projects/Conetropolis/Conetropolis.uproject"  -IgnoreJunk]
+[2022.03.28-22.55.06:007][602]Warning: Starting HotReload took  0.0s.
+[2022.03.28-22.55.23:465][191]CompilerResultsLog: New page: Compilation - 29 mar 2022, 02:55:23
+[2022.03.28-22.55.23:465][191]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Users\Lenovo\Documents\Unreal Projects\Conetropolis).
+[2022.03.28-22.55.23:465][191]CompilerResultsLog: Invalidating makefile for ConetropolisEditor (BuilderWidget.cpp modified)
+[2022.03.28-22.55.23:465][191]CompilerResultsLog: Building ConetropolisEditor...
+[2022.03.28-22.55.23:465][191]CompilerResultsLog: Using Visual Studio 2019 14.28.29915 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.03.28-22.55.23:465][191]CompilerResultsLog: Building 4 actions with 12 processes...
+[2022.03.28-22.55.23:465][191]CompilerResultsLog:   [1/4] BuilderWidget.cpp
+[2022.03.28-22.55.23:465][191]CompilerResultsLog:   [2/4] UE4Editor-Conetropolis-1632.lib
+[2022.03.28-22.55.23:465][191]CompilerResultsLog:      Trwa tworzenie biblioteki D:\Users\Lenovo\Documents\Unreal Projects\Conetropolis\Intermediate\Build\Win64\UE4Editor\Development\Conetropolis\UE4Editor-Conetropolis-1632.lib i obiektu D:\Users\Lenovo\Documents\Unreal Projects\Conetropolis\Intermediate\Build\Win64\UE4Editor\Development\Conetropolis\UE4Editor-Conetropolis-1632.exp
+[2022.03.28-22.55.23:465][191]CompilerResultsLog:   [3/4] UE4Editor-Conetropolis-1632.dll
+[2022.03.28-22.55.23:465][191]CompilerResultsLog:      Trwa tworzenie biblioteki D:\Users\Lenovo\Documents\Unreal Projects\Conetropolis\Intermediate\Build\Win64\UE4Editor\Development\Conetropolis\UE4Editor-Conetropolis-1632.suppressed.lib i obiektu D:\Users\Lenovo\Documents\Unreal Projects\Conetropolis\Intermediate\Build\Win64\UE4Editor\Development\Conetropolis\UE4Editor-Conetropolis-1632.suppressed.exp
+[2022.03.28-22.55.23:465][191]CompilerResultsLog:   [4/4] ConetropolisEditor.target
+[2022.03.28-22.55.23:465][191]CompilerResultsLog: Total time in Parallel executor: 15,40 seconds
+[2022.03.28-22.55.23:465][191]CompilerResultsLog: Total execution time: 17,25 seconds
+[2022.03.28-22.55.23:465][191]LogMainFrame: MainFrame: Module compiling took 17.477 seconds
+[2022.03.28-22.55.23:548][191]LogClass: EColor HotReload.
+[2022.03.28-22.55.23:548][191]LogClass: Buildings HotReload.
+[2022.03.28-22.55.23:556][191]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Conetropolis' in 0.0003 seconds. Added 13 classes and 2 folders.
+[2022.03.28-22.55.23:560][191]Display: HotReload successful (3 functions remapped  1 scriptstructs remapped)
+[2022.03.28-22.55.23:619][191]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0092 seconds. Added 3614 classes and 861 folders.
+[2022.03.28-22.55.23:619][191]Display: HotReload took 17.6s.
+[2022.03.28-22.55.27:511][256]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.28-22.55.27:516][256]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.28-22.55.27:516][256]PIE: New page: PIE session: Map (29 mar 2022, 02:55:27)
+[2022.03.28-22.55.27:516][256]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map
+[2022.03.28-22.55.27:519][256]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002628s)
+[2022.03.28-22.55.27:520][256]LogAIModule: Creating AISystem for world Map
+[2022.03.28-22.55.27:520][256]LogPlayLevel: PIE: World Init took: (0.000977s)
+[2022.03.28-22.55.27:520][256]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map.Map to /Game/Maps/UEDPIE_0_Map.Map (0.003711s)
+[2022.03.28-22.55.27:580][256]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2022.03.28-22.55.27:581][256]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.03.28-22.55.27:581][256]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.28-22.55.27:581][256]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.28-22.55.27:581][256]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.28-22.55.27:581][256]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.28-22.55.27:581][256]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.28-22.55.27:581][256]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.28-22.55.27:581][256]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.28-22.55.27:581][256]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.28-22.55.27:581][256]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.28-22.55.27:581][256]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.28-22.55.27:585][256]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.28-22.55.27:585][256]LogAudioMixer: Display: 1: FrontRight
+[2022.03.28-22.55.27:593][256]LogAudioMixer: Display: Using Audio Device Słuchawki (High Definition Audio Device)
+[2022.03.28-22.55.27:594][256]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.28-22.55.27:594][256]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.28-22.55.27:594][256]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.28-22.55.27:594][256]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.28-22.55.27:594][256]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.28-22.55.27:594][256]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.28-22.55.27:606][256]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.28-22.55.27:606][256]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.28-22.55.27:606][256]LogInit: FAudioDevice initialized.
+[2022.03.28-22.55.27:606][256]LogAudio: Display: Audio Device (ID: 8) registered with world 'Map'.
+[2022.03.28-22.55.27:612][256]LogLoad: Game class is 'BuilderMode_C'
+[2022.03.28-22.55.27:613][256]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2022.03.29-00.55.27
+[2022.03.28-22.55.27:613][256]LogWorld: Bringing up level for play took: 0.000591
+[2022.03.28-22.55.27:613][256]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2022.03.28-22.55.27:615][256]LogTemp: Warning: There is no ScoreWidget in HUD
+[2022.03.28-22.55.27:775][256]LogTemp: Warning: Widgets initialized
+[2022.03.28-22.55.27:776][256]PIE: Server logged in
+[2022.03.28-22.55.27:776][256]PIE: Play in editor total start time 0,261 seconds.
+[2022.03.28-22.55.28:302][295]LogTemp: Warning: BuildingButtonClass
+[2022.03.28-22.55.28:302][295]LogTemp: Warning: BuildingButton
+[2022.03.28-22.55.28:302][295]LogTemp: Warning: Drop item works 999
+[2022.03.28-22.55.30:571][549]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.28-22.55.30:571][549]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map
+[2022.03.28-22.55.30:573][549]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2022.03.28-22.55.30:583][549]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.28-22.55.30:593][549]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.28-22.55.30:600][549]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.28-22.55.30:616][549]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.28-22.55.30:616][549]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.28-22.55.30:617][549]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.28-22.55.30:630][549]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.28-22.55.30:676][549]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2022.03.28-22.55.30:695][550]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2022.03.28-22.57.28:428][134]Candidate modules for hot reload:
+[2022.03.28-22.57.28:428][134]  Conetropolis
+[2022.03.28-22.57.28:428][134]Launching UnrealBuildTool... [D:/TheEngine/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Conetropolis,1165 ConetropolisEditor Win64 Development -Project="D:/Users/Lenovo/Documents/Unreal Projects/Conetropolis/Conetropolis.uproject" "D:/Users/Lenovo/Documents/Unreal Projects/Conetropolis/Conetropolis.uproject"  -IgnoreJunk]
+[2022.03.28-22.57.28:432][134]Warning: Starting HotReload took  0.0s.
+[2022.03.28-22.57.53:268][886]CompilerResultsLog: New page: Compilation - 29 mar 2022, 02:57:53
+[2022.03.28-22.57.53:268][886]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Users\Lenovo\Documents\Unreal Projects\Conetropolis).
+[2022.03.28-22.57.53:268][886]CompilerResultsLog: Invalidating makefile for ConetropolisEditor (BuilderWidget.cpp modified)
+[2022.03.28-22.57.53:268][886]CompilerResultsLog: Parsing headers for ConetropolisEditor
+[2022.03.28-22.57.53:268][886]CompilerResultsLog:   Running UnrealHeaderTool "D:\Users\Lenovo\Documents\Unreal Projects\Conetropolis\Conetropolis.uproject" "D:\Users\Lenovo\Documents\Unreal Projects\Conetropolis\Intermediate\Build\Win64\ConetropolisEditor\Development\ConetropolisEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Lenovo\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2022.03.28-22.57.53:268][886]CompilerResultsLog: Reflection code generated for ConetropolisEditor in 8,1432788 seconds
+[2022.03.28-22.57.53:268][886]CompilerResultsLog: Building ConetropolisEditor...
+[2022.03.28-22.57.53:268][886]CompilerResultsLog: Using Visual Studio 2019 14.28.29915 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.03.28-22.57.53:268][886]CompilerResultsLog: Building 13 actions with 12 processes...
+[2022.03.28-22.57.53:268][886]CompilerResultsLog:   [1/13] Conetropolis.init.gen.cpp
+[2022.03.28-22.57.53:268][886]CompilerResultsLog:   [2/13] BuildingButton.cpp
+[2022.03.28-22.57.53:268][886]CompilerResultsLog:   [3/13] Grid.cpp
+[2022.03.28-22.57.53:268][886]CompilerResultsLog:   [4/13] BuilderWidget.gen.cpp
+[2022.03.28-22.57.53:268][886]CompilerResultsLog:   [5/13] ConetropolisHUD.gen.cpp
+[2022.03.28-22.57.53:268][886]CompilerResultsLog:   [6/13] BuildingButton.gen.cpp
+[2022.03.28-22.57.53:268][886]CompilerResultsLog:   [7/13] BuilderWidget.cpp
+[2022.03.28-22.57.53:268][886]CompilerResultsLog:   [8/13] ConetropolisHUD.cpp
+[2022.03.28-22.57.53:268][886]CompilerResultsLog:   [9/13] Grid.gen.cpp
+[2022.03.28-22.57.53:268][886]CompilerResultsLog:   [10/13] GridField.cpp
+[2022.03.28-22.57.53:268][886]CompilerResultsLog:   [11/13] UE4Editor-Conetropolis-1165.lib
+[2022.03.28-22.57.53:268][886]CompilerResultsLog:      Trwa tworzenie biblioteki D:\Users\Lenovo\Documents\Unreal Projects\Conetropolis\Intermediate\Build\Win64\UE4Editor\Development\Conetropolis\UE4Editor-Conetropolis-1165.lib i obiektu D:\Users\Lenovo\Documents\Unreal Projects\Conetropolis\Intermediate\Build\Win64\UE4Editor\Development\Conetropolis\UE4Editor-Conetropolis-1165.exp
+[2022.03.28-22.57.53:268][886]CompilerResultsLog:   [12/13] UE4Editor-Conetropolis-1165.dll
+[2022.03.28-22.57.53:268][886]CompilerResultsLog:      Trwa tworzenie biblioteki D:\Users\Lenovo\Documents\Unreal Projects\Conetropolis\Intermediate\Build\Win64\UE4Editor\Development\Conetropolis\UE4Editor-Conetropolis-1165.suppressed.lib i obiektu D:\Users\Lenovo\Documents\Unreal Projects\Conetropolis\Intermediate\Build\Win64\UE4Editor\Development\Conetropolis\UE4Editor-Conetropolis-1165.suppressed.exp
+[2022.03.28-22.57.53:268][886]CompilerResultsLog:   [13/13] ConetropolisEditor.target
+[2022.03.28-22.57.53:268][886]CompilerResultsLog: Total time in Parallel executor: 14,72 seconds
+[2022.03.28-22.57.53:268][886]CompilerResultsLog: Total execution time: 24,74 seconds
+[2022.03.28-22.57.53:268][886]LogMainFrame: MainFrame: Module compiling took 24.872 seconds
+[2022.03.28-22.57.53:488][886]LogClass: Could not find existing class BuildingButton in package /Script/Conetropolis for HotReload, assuming new class
+[2022.03.28-22.57.53:528][886]LogClass: EColor HotReload.
+[2022.03.28-22.57.53:529][886]LogClass: Buildings HotReload.
+[2022.03.28-22.57.53:537][886]LogHotReload: Re-instancing BuildingButton after hot-reload.
+[2022.03.28-22.57.53:561][886]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Conetropolis' in 0.0003 seconds. Added 13 classes and 2 folders.
+[2022.03.28-22.57.53:567][886]Display: HotReload successful (3 functions remapped  1 scriptstructs remapped)
+[2022.03.28-22.57.53:629][886]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0097 seconds. Added 3614 classes and 861 folders.
+[2022.03.28-22.57.53:629][886]Display: HotReload took 25.2s.
+[2022.03.28-22.57.55:684][ 84]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.28-22.57.55:690][ 84]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.28-22.57.55:690][ 84]PIE: New page: PIE session: Map (29 mar 2022, 02:57:55)
+[2022.03.28-22.57.55:690][ 84]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map
+[2022.03.28-22.57.55:697][ 84]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006723s)
+[2022.03.28-22.57.55:698][ 84]LogAIModule: Creating AISystem for world Map
+[2022.03.28-22.57.55:698][ 84]LogPlayLevel: PIE: World Init took: (0.001024s)
+[2022.03.28-22.57.55:698][ 84]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map.Map to /Game/Maps/UEDPIE_0_Map.Map (0.007869s)
+[2022.03.28-22.57.55:756][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2022.03.28-22.57.55:757][ 84]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.03.28-22.57.55:757][ 84]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.28-22.57.55:757][ 84]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.28-22.57.55:757][ 84]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.28-22.57.55:757][ 84]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.28-22.57.55:757][ 84]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.28-22.57.55:757][ 84]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.28-22.57.55:757][ 84]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.28-22.57.55:757][ 84]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.28-22.57.55:758][ 84]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.28-22.57.55:758][ 84]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.28-22.57.55:762][ 84]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.28-22.57.55:762][ 84]LogAudioMixer: Display: 1: FrontRight
+[2022.03.28-22.57.55:770][ 84]LogAudioMixer: Display: Using Audio Device Słuchawki (High Definition Audio Device)
+[2022.03.28-22.57.55:770][ 84]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.28-22.57.55:770][ 84]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.28-22.57.55:770][ 84]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.28-22.57.55:771][ 84]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.28-22.57.55:771][ 84]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.28-22.57.55:771][ 84]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.28-22.57.55:783][ 84]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.28-22.57.55:783][ 84]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.28-22.57.55:783][ 84]LogInit: FAudioDevice initialized.
+[2022.03.28-22.57.55:783][ 84]LogAudio: Display: Audio Device (ID: 9) registered with world 'Map'.
+[2022.03.28-22.57.55:787][ 84]LogLoad: Game class is 'BuilderMode_C'
+[2022.03.28-22.57.55:788][ 84]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2022.03.29-00.57.55
+[2022.03.28-22.57.55:788][ 84]LogWorld: Bringing up level for play took: 0.000627
+[2022.03.28-22.57.55:788][ 84]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2022.03.28-22.57.55:790][ 84]LogTemp: Warning: There is no ScoreWidget in HUD
+[2022.03.28-22.57.55:952][ 84]LogTemp: Warning: Widgets initialized
+[2022.03.28-22.57.55:952][ 84]PIE: Server logged in
+[2022.03.28-22.57.55:953][ 84]PIE: Play in editor total start time 0,264 seconds.
+[2022.03.28-22.57.57:026][189]LogTemp: Warning: BuildingButtonClass
+[2022.03.28-22.57.57:026][189]LogTemp: Warning: BuildingButton
+[2022.03.28-22.58.00:019][189]LogWindows: Error: === Critical error: ===
+[2022.03.28-22.58.00:019][189]LogWindows: Error: 
+[2022.03.28-22.58.00:019][189]LogWindows: Error: Fatal error!
+[2022.03.28-22.58.00:019][189]LogWindows: Error: 
+[2022.03.28-22.58.00:019][189]LogWindows: Error: Unhandled Exception: EXCEPTION_ACCESS_VIOLATION reading address 0x0000000000000000
+[2022.03.28-22.58.00:019][189]LogWindows: Error: 
+[2022.03.28-22.58.00:019][189]LogWindows: Error: [Callstack] 0x00007ffcbe044c5d UE4Editor-Conetropolis-1165.dll!UBuilderWidget::AddChildToScrollbox() [D:\Users\Lenovo\Documents\Unreal Projects\Conetropolis\Source\Conetropolis\BuilderWidget.cpp:28]
+[2022.03.28-22.58.00:019][189]LogWindows: Error: [Callstack] 0x00007ffcbe049cdc UE4Editor-Conetropolis-1165.dll!AGridField::HandleClicked() [D:\Users\Lenovo\Documents\Unreal Projects\Conetropolis\Source\Conetropolis\GridField.cpp:63]
+[2022.03.28-22.58.00:019][189]LogWindows: Error: [Callstack] 0x00007ffcbe049962 UE4Editor-Conetropolis-1165.dll!AGridField::BlockClicked() [D:\Users\Lenovo\Documents\Unreal Projects\Conetropolis\Source\Conetropolis\GridField.cpp:33]
+[2022.03.28-22.58.00:019][189]LogWindows: Error: [Callstack] 0x00007ffcbe04cd05 UE4Editor-Conetropolis-1165.dll!AGridField::execBlockClicked() [D:\Users\Lenovo\Documents\Unreal Projects\Conetropolis\Intermediate\Build\Win64\UE4Editor\Inc\Conetropolis\GridField.gen.cpp:44]
+[2022.03.28-22.58.00:019][189]LogWindows: Error: [Callstack] 0x00007ffd157d26a4 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.03.28-22.58.00:019][189]LogWindows: Error: [Callstack] 0x00007ffd15a60ef3 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.03.28-22.58.00:019][189]LogWindows: Error: [Callstack] 0x00007ffd1622c125 UE4Editor-Engine.dll!UnknownFunction []
+[2022.03.28-22.58.00:019][189]LogWindows: Error: [Callstack] 0x00007ffd16120ecb UE4Editor-Engine.dll!UnknownFunction []
+[2022.03.28-22.58.00:019][189]LogWindows: Error: [Callstack] 0x00007ffd1666b2a6 UE4Editor-Engine.dll!UnknownFunction []
+[2022.03.28-22.58.00:020][189]LogWindows: Error: [Callstack] 0x00007ffd16fde767 UE4Editor-Engine.dll!UnknownFunction []
+[2022.03.28-22.58.00:020][189]LogWindows: Error: [Callstack] 0x00007ffd1695cff2 UE4Editor-Engine.dll!UnknownFunction []
+[2022.03.28-22.58.00:020][189]LogWindows: Error: [Callstack] 0x00007ffd17237278 UE4Editor-Engine.dll!UnknownFunction []
+[2022.03.28-22.58.00:020][189]LogWindows: Error: [Callstack] 0x00007ffd2795f6d4 UE4Editor-Slate.dll!UnknownFunction []
+[2022.03.28-22.58.00:020][189]LogWindows: Error: [Callstack] 0x00007ffd27693038 UE4Editor-Slate.dll!UnknownFunction []
+[2022.03.28-22.58.00:020][189]LogWindows: Error: [Callstack] 0x00007ffd27716aff UE4Editor-Slate.dll!UnknownFunction []
+[2022.03.28-22.58.00:020][189]LogWindows: Error: [Callstack] 0x00007ffd276ffd18 UE4Editor-Slate.dll!UnknownFunction []
+[2022.03.28-22.58.00:020][189]LogWindows: Error: [Callstack] 0x00007ffd276f312f UE4Editor-Slate.dll!UnknownFunction []
+[2022.03.28-22.58.00:020][189]LogWindows: Error: [Callstack] 0x00007ffd81f7bcf4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.03.28-22.58.00:020][189]LogWindows: Error: [Callstack] 0x00007ffd81f69197 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.03.28-22.58.00:020][189]LogWindows: Error: [Callstack] 0x00007ffd81f7e379 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.03.28-22.58.00:020][189]LogWindows: Error: [Callstack] 0x00007ffd81f64310 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.03.28-22.58.00:020][189]LogWindows: Error: [Callstack] 0x00007ffd8e1ce858 USER32.dll!UnknownFunction []
+[2022.03.28-22.58.00:020][189]LogWindows: Error: [Callstack] 0x00007ffd8e1ce299 USER32.dll!UnknownFunction []
+[2022.03.28-22.58.00:020][189]LogWindows: Error: [Callstack] 0x00007ffd81f7f904 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.03.28-22.58.00:020][189]LogWindows: Error: [Callstack] 0x00007ff6a90b8857 UE4Editor.exe!UnknownFunction []
+[2022.03.28-22.58.00:020][189]LogWindows: Error: [Callstack] 0x00007ff6a90d11ac UE4Editor.exe!UnknownFunction []
+[2022.03.28-22.58.00:020][189]LogWindows: Error: [Callstack] 0x00007ff6a90d128a UE4Editor.exe!UnknownFunction []
+[2022.03.28-22.58.00:020][189]LogWindows: Error: [Callstack] 0x00007ff6a90e52ed UE4Editor.exe!UnknownFunction []
+[2022.03.28-22.58.00:020][189]LogWindows: Error: [Callstack] 0x00007ff6a90e801a UE4Editor.exe!UnknownFunction []
+[2022.03.28-22.58.00:020][189]LogWindows: Error: [Callstack] 0x00007ffd8d207034 KERNEL32.DLL!UnknownFunction []
+[2022.03.28-22.58.00:020][189]LogWindows: Error: [Callstack] 0x00007ffd8f182651 ntdll.dll!UnknownFunction []
+[2022.03.28-22.58.00:020][189]LogWindows: Error: 
+[2022.03.28-22.58.00:030][189]LogExit: Executing StaticShutdownAfterError
+[2022.03.28-22.58.00:047][189]LogWindows: FPlatformMisc::RequestExit(1)
+[2022.03.28-22.58.00:047][189]LogCore: Engine exit requested (reason: Win RequestExit)
+[2022.03.28-22.58.00:052][189]Log file closed, 03/29/22 00:58:00

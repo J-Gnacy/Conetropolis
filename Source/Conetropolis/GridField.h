@@ -3,12 +3,14 @@
 #pragma once
 
 #include "CoreMinimal.h"
+#include "ColoredObject.h"
+#include "ConeBuilding.h"
 #include "GameFramework/Actor.h"
 #include "GridField.generated.h"
 
 /** A block that can be clicked */
 UCLASS(minimalapi)
-class AGridField : public AActor
+class AGridField : public AColoredObject
 {
 	GENERATED_BODY()
 
@@ -18,43 +20,13 @@ class AGridField : public AActor
 
 	/** StaticMesh component for the clickable block */
 	UPROPERTY(Category = Block, VisibleDefaultsOnly, BlueprintReadOnly, meta = (AllowPrivateAccess = "true"))
-	class UStaticMeshComponent* BlockMesh;
+	class UStaticMeshComponent* FieldMesh;
 
 public:
 	AGridField();
 
 	/** Are we currently active? */
 	bool bIsActive;
-
-	/** Pointer to white material used on the focused block */
-	UPROPERTY()
-	class UMaterial* BaseMaterial;
-
-	/** Pointer to blue material used on inactive blocks */
-	UPROPERTY()
-	class UMaterialInstance* BlueMaterial;
-
-	/** Pointer to orange material used on active blocks */
-	UPROPERTY()
-	class UMaterialInstance* OrangeMaterial;
-
-	UPROPERTY()
-	class UMaterialInstance* GreenMaterial;
-
-	UPROPERTY()
-	class UMaterialInstance* GreyMaterial;
-
-	UPROPERTY()
-	class UMaterialInstance* RedMaterial;
-
-	UPROPERTY()
-	class UMaterialInstance* VioletMaterial;
-
-	UPROPERTY()
-	class UMaterialInstance* WhiteMaterial;
-
-	UPROPERTY()
-	class UMaterialInstance* YellowMaterial;
 
 	/** Grid that owns us */
 	UPROPERTY()
@@ -72,11 +44,15 @@ public:
 
 	void Highlight(bool bOn);
 
-public:
+	void BuildCone(AConeBuilding ConeToBuild);
+
+	UPROPERTY(EditAnywhere)
+	TSubclassOf<class AConeBuilding> SpawnedCone;
+	
 	/** Returns DummyRoot subobject **/
 	FORCEINLINE class USceneComponent* GetDummyRoot() const { return DummyRoot; }
 	/** Returns BlockMesh subobject **/
-	FORCEINLINE class UStaticMeshComponent* GetBlockMesh() const { return BlockMesh; }
+	FORCEINLINE class UStaticMeshComponent* GetBlockMesh() const { return FieldMesh; }
 };
 
 

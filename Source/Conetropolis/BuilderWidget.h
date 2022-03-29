@@ -5,6 +5,7 @@
 #include "CoreMinimal.h"
 #include "Blueprint/UserWidget.h"
 #include "BuildingButton.h"
+#include "ConeBuilding.h"
 #include "BuilderWidget.generated.h"
 
 /**
@@ -18,7 +19,7 @@ class CONETROPOLIS_API UBuilderWidget : public UUserWidget
 public:
 	UBuilderWidget(const FObjectInitializer& ObjectInitializer);
 
-	virtual void NativeConstruct() override;
+	virtual void NativeConstruct();
 
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, meta = (BindWidget))
 	class UBorder* BuilderBorder;
@@ -26,11 +27,13 @@ public:
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, meta = (BindWidget))
 	class UScrollBox* BuilderScrollbox;
 
-	void AddChildToScrollbox();
+	void AddChildToScrollbox(AConeBuilding* Building);
 
 	UPROPERTY(EditDefaultsOnly, Category = "Widgets")
 	TSubclassOf<UUserWidget> BuildingButtonClass;
-	UBuildingButton* BuildingButton;
+
+	UPROPERTY()
+	UBuildingButton* BButton;
 
 	
 	

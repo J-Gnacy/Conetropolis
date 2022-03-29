@@ -41,6 +41,8 @@ public:
     void InitializeScoreWidget();
     void InitializeBuilderWidget();
 	void InitializeWidgets();
+	void ShowBuilderWidget();
+	void HideBuilderWidget();
 
 };
 
